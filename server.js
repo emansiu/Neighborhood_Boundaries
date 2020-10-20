@@ -1,9 +1,10 @@
 const express = require("express");
 const path = require("path");
-
+const cors = require('cors');
 
 const app = express();
 // ------------MIDDLEWARE--------------
+app.use(cors());
 // ------------------------------------------------------
 // we'll allow either json or urlencoded requests
 app.use(express.urlencoded({ extended: true })); //Parse URL-encoded bodies
@@ -18,11 +19,11 @@ console.log(__dirname)
 // ---SERVE STATIC ASSETS FOR PRODUCTION AND DEV-----
 if (process.env.NODE_ENV === "production") {
     // set static folder. __dirname if file is in root
-    app.use(express.static("public"));
+    app.use(express.static(__dirname));
 
     // Now assign the file to use to land on
     app.get("*", (req, res) => {
-        res.sendFile(path.resolve(__dirname, "public", "index.html"));
+        res.sendFile(path.resolve(__dirname, "index.html"));
     })
 } else {
     app.use(express.static(__dirname))
