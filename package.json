@@ -1,0 +1,26 @@
+{
+  "name": "neighborhood_boundaries",
+  "version": "1.0.0",
+  "description": "geospatial boundaries of neighborhoods",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emansiu/Neighborhood_Boundaries.git"
+  },
+  "keywords": [
+    "boundaries"
+  ],
+  "author": "Emanuel Siu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emansiu/Neighborhood_Boundaries/issues"
+  },
+  "homepage": "https://github.com/emansiu/Neighborhood_Boundaries#readme"
+}
