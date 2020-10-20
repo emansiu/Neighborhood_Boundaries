@@ -12,8 +12,9 @@ app.use(express.json({ extended: false })); //Used to parse JSON bodies;
 
 
 //------------------ ROUTES ----------------------------------
-
-console.log(__dirname)
+app.get("bounds", (req, res) => {
+    res.sendFile(path.resolve(__dirname, "ZillowNeighborhoodsAreas.geojson"));
+})
 
 
 // ---SERVE STATIC ASSETS FOR PRODUCTION AND DEV-----
