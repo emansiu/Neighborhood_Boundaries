@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+XML Line
+<?xml version="" encoding=""?>
 <PhysicalProperty>
   <Property IDValue="537779">
     <PropertyID>
@@ -2176,7 +2177,7 @@
       </Address>
       <Availability>
         <VacancyClass>Unoccupied</VacancyClass>
-        <VacateDate Month="12" Day="21" Year="2020""/>
+        <VacateDate Month="12" Day="21" Year="2020"/>
         <UnitAvailabilityURL></UnitAvailabilityURL>
       </Availability>
       <Comment/>
@@ -2220,7 +2221,7 @@
       </Address>
       <Availability>
         <VacancyClass>Unoccupied</VacancyClass>
-        <VacateDate Month="3" Day="1" Year="2021""/>
+        <VacateDate Month="3" Day="1" Year="2021"/>
         <UnitAvailabilityURL></UnitAvailabilityURL>
       </Availability>
       <Comment/>
@@ -2268,7 +2269,7 @@
       </Address>
       <Availability>
         <VacancyClass>Unoccupied</VacancyClass>
-        <VacateDate Month="12" Day="21" Year="2020""/>
+        <VacateDate Month="12" Day="21" Year="2020"/>
         <UnitAvailabilityURL></UnitAvailabilityURL>
       </Availability>
       <Comment/>
@@ -2316,7 +2317,7 @@
       </Address>
       <Availability>
         <VacancyClass>Unoccupied</VacancyClass>
-        <VacateDate Month="3" Day="1" Year="2021""/>
+        <VacateDate Month="3" Day="1" Year="2021"/>
         <UnitAvailabilityURL></UnitAvailabilityURL>
       </Availability>
       <Comment/>
@@ -2368,7 +2369,7 @@
       </Address>
       <Availability>
         <VacancyClass>Unoccupied</VacancyClass>
-        <VacateDate Month="12" Day="21" Year="2020""/>
+        <VacateDate Month="12" Day="21" Year="2020"/>
         <UnitAvailabilityURL></UnitAvailabilityURL>
       </Availability>
       <Comment/>
@@ -2412,7 +2413,7 @@
       </Address>
       <Availability>
         <VacancyClass>Unoccupied</VacancyClass>
-        <VacateDate Month="3" Day="1" Year="2021""/>
+        <VacateDate Month="3" Day="1" Year="2021"/>
         <UnitAvailabilityURL></UnitAvailabilityURL>
       </Availability>
       <Comment/>
@@ -2456,7 +2457,7 @@
       </Address>
       <Availability>
         <VacancyClass>Unoccupied</VacancyClass>
-        <VacateDate Month="12" Day="21" Year="2020""/>
+        <VacateDate Month="12" Day="21" Year="2020"/>
         <UnitAvailabilityURL></UnitAvailabilityURL>
       </Availability>
       <Comment/>
