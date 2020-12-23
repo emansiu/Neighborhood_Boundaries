@@ -1,0 +1,6230 @@
+XML Line
+<?xml version="" encoding=""?>
+<PhysicalProperty>
+  <Property IDValue="537779">
+    <PropertyID>
+      <SyncMgmtID>9685</SyncMgmtID>
+      <SyncPropertyID>537779_9685</SyncPropertyID>
+      <MarketingName>Mirada at La Jolla Colony Apartments</MarketingName>
+      <WebSite>www.mirada-apartments.com</WebSite>
+      <Email></Email>
+      <Phone PhoneType="">
+        <PhoneNumber>844-810-2504</PhoneNumber>
+      </Phone>
+      <Address AddressType="">
+        <AddressLine1>7568 Charmant Drive</AddressLine1>
+        <City>San Diego</City>
+        <State>CA</State>
+        <CountyName></CountyName>
+        <PostalCode>92122</PostalCode>
+      </Address>
+    </PropertyID>
+    <ILS_Identification ILS_IdentificationType="" RentalType="">
+      <Latitude>32.8653</Latitude>
+      <Longitude>-117.2254</Longitude>
+    </ILS_Identification>
+    <Information>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <UnitCount></UnitCount>
+      <LongDescription>FOR THOSE UNWILLING TO COMPROMISE...Mirada at La Jolla Colony is the right move for you. Mirada&#39;s priceless location is only one of many reasons to choose us as your new home. We are located in the heart of the Golden Triangle near major employers, shopping, restaurants and La Jollas beautiful beaches. Miradas features and amenities include luxury living areas in one of our five floorplans and generous storage areas, walk-in closets, Moen plumbing fixtures and several energy-efficient features, as well as sound insulation in ceilings and floors. Treat yourself to a life of carefree comfort and convenience at Mirada at La Jolla Colony.</LongDescription>
+      <DrivingDirections/>
+      <FacebookURL/>
+      <TwitterHandle/>
+      <PinterestURL/>
+    </Information>
+    <Fee>
+      <AdminFee/>
+      <ApplicationFee/>
+      <BrokerFee/>
+    </Fee>
+    <Amenity AmenityType="Availability24Hours">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="LEED">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity AmenityType="Retail">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Garage">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity AmenityType="Recycling">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="PackageReceiving">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="PetWashingStation">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="RooftopLounge">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity AmenityType="WirelessInternet">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity AmenityType="Gate">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="BusinessCenter">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity AmenityType="CoverPark">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <Amenity AmenityType="FitnessCenter">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity AmenityType="FurnishedAvailable">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Garden">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="IslandKitchen">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="QuartzCounterTops">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="Range">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="Refrigerator">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="StainlessSteel">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="Washer">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="WheelChair">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="HighSpeed">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity SpecificAmenityType="Balcony">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity SpecificAmenityType="ControlledAccess">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity SpecificAmenityType="DoubleVanities">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity SpecificAmenityType="Dryer">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="Fireplace">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="Garage">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="Other">
+      <Description>Under Cabinet Lighting</Description>
+      <Rank/>
+    </Amenity>
+    <Deposit>
+      <Amount AmountType="">
+        <ValueRange/>
+      </Amount>
+      <Description/>
+      <PercentRefundable/>
+      <PortionRefundable/>
+    </Deposit>
+    <Policy>
+      <Pet Allowed="false">
+        <Pets Count="" Description="" PetType="" Weight="" size=""/>
+        <Comment/>
+        <Deposit></Deposit>
+        <Fee></Fee>
+        <Rent/>
+        <FeeRange Min="" Max=""/>
+        <Restrictions/>
+        <PetCare></PetCare>
+      </Pet>
+      <Pet Allowed="">
+        <Pets Count="" Description="" PetType="" Weight="" size=""/>
+        <Comment/>
+        <Deposit>75</Deposit>
+        <Fee>70</Fee>
+        <Rent/>
+        <FeeRange Min="" Max=""/>
+        <Restrictions/>
+        <PetCare></PetCare>
+      </Pet>
+      <General/>
+    </Policy>
+    <Floorplan IDValue="537779_1Unit">
+      <SyncFloorplanID>537779_1Unit</SyncFloorplanID>
+      <Name>Seville</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomTypeBath="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="535" Max="535"/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="537779_1Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/CA_SanDiego_MiradaatLaJollaColonyApartments_p0547433_Seville_2_FloorPlan.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="537779_2Unit">
+      <SyncFloorplanID>537779_2Unit</SyncFloorplanID>
+      <Name>Seville-R</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="535" Max="535"/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="537779_2Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/CA_SanDiego_MiradaatLaJollaColonyApartments_p0547433_SevilleR_2_FloorPlan.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="537779_3Unit">
+      <SyncFloorplanID>537779_3Unit</SyncFloorplanID>
+      <Name>Madrid</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="625" Max="625"/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="537779_3Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/CA_SanDiego_MiradaatLaJollaColonyApartments_p0547433_Madrid_2_FloorPlan.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="537779_4Unit">
+      <SyncFloorplanID>537779_4Unit</SyncFloorplanID>
+      <Name>Madrid-R</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>7</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="625" Max="625"/>
+      <MarketRent Min="2875" Max="2875"/>
+      <EffectiveRent Min="2875" Max="2875"/>
+      <File FileID="537779_4Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/CA_SanDiego_MiradaatLaJollaColonyApartments_p0547433_MadridR_2_FloorPlan.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="537779_5Unit">
+      <SyncFloorplanID>537779_5Unit</SyncFloorplanID>
+      <Name>Cordoba-R</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="725" Max="725"/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="537779_5Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/CA_SanDiego_MiradaatLaJollaColonyApartments_p0547433_CordobaR_2_FloorPlan.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="537779_6Unit">
+      <SyncFloorplanID>537779_6Unit</SyncFloorplanID>
+      <Name>Mallorca-R</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>3</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>0</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bedroom">
+        <Count>0</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="890" Max="890"/>
+      <MarketRent Min="3612" Max="3612"/>
+      <EffectiveRent Min="3612" Max="3612"/>
+      <File FileID="537779_6Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/CA_SanDiego_MiradaatLaJollaColonyApartments_p0547433_MallorcaR_2_FloorPlan.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="537779_7Unit">
+      <SyncFloorplanID>537779_7Unit</SyncFloorplanID>
+      <Name>Valencia-R</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>2</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>0</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bedroom">
+        <Count>0</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="925" Max="925"/>
+      <MarketRent Min="3728" Max="3728"/>
+      <EffectiveRent Min="3728" Max="3728"/>
+      <File FileID="537779_7Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/CA_SanDiego_MiradaatLaJollaColonyApartments_p0547433_ValenciaR_2_FloorPlan.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <ILS_Unit IDValue="537779_1Unit">
+      <Units>
+        <UnitID>537779_1Unit</UnitID>
+        <SyncUnitID>537779_1Unit_9685</SyncUnitID>
+        <MarketingName>Seville</MarketingName>
+        <UnitType>Seville_1Unit_9685</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>535</MinSquareFeet>
+        <MaxSquareFeet>535</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Seville_1BR_1BA</FloorplanName>
+        <FloorplanID>537779_1Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>7568 Charmant Drive</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92122</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020""/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="537779_2Unit">
+      <Units>
+        <UnitID>537779_2Unit</UnitID>
+        <SyncUnitID>537779_2Unit_9685</SyncUnitID>
+        <MarketingName>Seville-R</MarketingName>
+        <UnitType>Seville-R_2Unit_9685</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>535</MinSquareFeet>
+        <MaxSquareFeet>535</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Seville-R_1BR_1BA</FloorplanName>
+        <FloorplanID>537779_2Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>7568 Charmant Drive</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92122</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021""/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="537779_3Unit">
+      <Units>
+        <UnitID>537779_3Unit</UnitID>
+        <SyncUnitID>537779_3Unit_9685</SyncUnitID>
+        <MarketingName>Madrid</MarketingName>
+        <UnitType>Madrid_3Unit_9685</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>625</MinSquareFeet>
+        <MaxSquareFeet>625</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Madrid_1BR_1BA</FloorplanName>
+        <FloorplanID>537779_3Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>7568 Charmant Drive</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92122</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020""/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="537779_4Unit">
+      <Units>
+        <UnitID>537779_4Unit</UnitID>
+        <SyncUnitID>537779_4Unit_9685</SyncUnitID>
+        <MarketingName>Madrid-R</MarketingName>
+        <UnitType>Madrid-R_4Unit_9685</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>625</MinSquareFeet>
+        <MaxSquareFeet>625</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2875</UnitRent>
+        <MarketRent>2875</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Madrid-R_1BR_1BA</FloorplanName>
+        <FloorplanID>537779_4Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>7568 Charmant Drive</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92122</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021""/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="537779_5Unit">
+      <Units>
+        <UnitID>537779_5Unit</UnitID>
+        <SyncUnitID>537779_5Unit_9685</SyncUnitID>
+        <MarketingName>Cordoba-R</MarketingName>
+        <UnitType>Cordoba-R_5Unit_9685</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>725</MinSquareFeet>
+        <MaxSquareFeet>725</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Cordoba-R_1BR_1BA</FloorplanName>
+        <FloorplanID>537779_5Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>7568 Charmant Drive</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92122</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020""/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="537779_6Unit">
+      <Units>
+        <UnitID>537779_6Unit</UnitID>
+        <SyncUnitID>537779_6Unit_9685</SyncUnitID>
+        <MarketingName>Mallorca-R</MarketingName>
+        <UnitType>Mallorca-R_6Unit_9685</UnitType>
+        <UnitBedrooms>0</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>890</MinSquareFeet>
+        <MaxSquareFeet>890</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>3612</UnitRent>
+        <MarketRent>3612</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Mallorca-R_0BR_1BA</FloorplanName>
+        <FloorplanID>537779_6Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>7568 Charmant Drive</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92122</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021""/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="537779_7Unit">
+      <Units>
+        <UnitID>537779_7Unit</UnitID>
+        <SyncUnitID>537779_7Unit_9685</SyncUnitID>
+        <MarketingName>Valencia-R</MarketingName>
+        <UnitType>Valencia-R_7Unit_9685</UnitType>
+        <UnitBedrooms>0</UnitBedrooms>
+        <UnitBathrooms>0</UnitBathrooms>
+        <MinSquareFeet>925</MinSquareFeet>
+        <MaxSquareFeet>925</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>3728</UnitRent>
+        <MarketRent>3728</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Valencia-R_0BR_0BA</FloorplanName>
+        <FloorplanID>537779_7Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>7568 Charmant Drive</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92122</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020""/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <File FileID="537779_0Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>537779_0Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/Mirada at La Jolla Colony-POI-014.jpg</Src>
+      <Rank>0</Rank>
+    </File>
+    <File FileID="537779_1Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>537779_1Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/Mirada at La Jolla Colony-POI-013.jpg</Src>
+      <Rank>1</Rank>
+    </File>
+    <File FileID="537779_2Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>537779_2Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/Mirada at La Jolla Colony-POI-015.jpg</Src>
+      <Rank>2</Rank>
+    </File>
+    <File FileID="537779_3Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>537779_3Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/Mirada at La Jolla Colony-POI-011.jpg</Src>
+      <Rank>3</Rank>
+    </File>
+    <File FileID="537779_4Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>537779_4Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/Mirada at La Jolla Colony-POI-008.jpg</Src>
+      <Rank>4</Rank>
+    </File>
+    <File FileID="537779_5Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>537779_5Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/Mirada at La Jolla Colony-POI-009.jpg</Src>
+      <Rank>5</Rank>
+    </File>
+    <File FileID="537779_6Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>537779_6Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/Mirada at La Jolla Colony-POI-012.jpg</Src>
+      <Rank>6</Rank>
+    </File>
+    <File FileID="537779_7Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>537779_7Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/Mirada at La Jolla Colony-POI-016.jpg</Src>
+      <Rank>7</Rank>
+    </File>
+    <File FileID="537779_8Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>537779_8Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/Mirada at La Jolla Colony-POI-017.jpg</Src>
+      <Rank>8</Rank>
+    </File>
+    <File FileID="537779_9Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>537779_9Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/Mirada at La Jolla Colony-POI-018.jpg</Src>
+      <Rank>9</Rank>
+    </File>
+    <File FileID="537779_10Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>537779_10Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/Mirada at La Jolla Colony-POI-019.jpg</Src>
+      <Rank>10</Rank>
+    </File>
+    <File FileID="537779_11Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>537779_11Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/Mirada at La Jolla Colony-POI-001.jpg</Src>
+      <Rank>11</Rank>
+    </File>
+    <File FileID="537779_12Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>537779_12Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/Mirada at La Jolla Colony-POI-002.jpg</Src>
+      <Rank>12</Rank>
+    </File>
+    <File FileID="537779_13Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>537779_13Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/Mirada at La Jolla Colony-POI-006.jpg</Src>
+      <Rank>13</Rank>
+    </File>
+    <File FileID="537779_14Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>537779_14Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/Fitness 4.png</Src>
+      <Rank>14</Rank>
+    </File>
+    <File FileID="537779_15Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>537779_15Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/Fitness 1.png</Src>
+      <Rank>15</Rank>
+    </File>
+    <File FileID="537779_16Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>537779_16Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/mirada 1.jpg</Src>
+      <Rank>16</Rank>
+    </File>
+    <File FileID="537779_17Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>537779_17Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/mirada 2.jpg</Src>
+      <Rank>17</Rank>
+    </File>
+    <File FileID="537779_18Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>537779_18Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/mirada 3.jpg</Src>
+      <Rank>18</Rank>
+    </File>
+    <File FileID="537779_19Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>537779_19Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/537779/mirada 4.jpg</Src>
+      <Rank>19</Rank>
+    </File>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </Property>
+</PhysicalProperty>
