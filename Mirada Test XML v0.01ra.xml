@@ -2,8 +2,8 @@
 <PhysicalProperty>
   <Property IDValue="537779">
     <PropertyID>
-      <SyncMgmtID>7614</SyncMgmtID>
-      <SyncPropertyID>537779_7614</SyncPropertyID>
+      <SyncMgmtID>8965</SyncMgmtID>
+      <SyncPropertyID>537779_8965</SyncPropertyID>
       <MarketingName>Mirada at La Jolla Colony Apartments</MarketingName>
       <WebSite>www.mirada-apartments.com</WebSite>
       <Email></Email>
@@ -82,26 +82,26 @@
 
 
 
-
-
-
-
+    <Amenity AmenityType="Retail">
+      <Description/>
+      <Rank/>
+    </Amenity>
     <Amenity AmenityType="Garage">
       <Description/>
       <Rank/>
     </Amenity>
-    <Amenity AmenityType="OnSiteMaintenance">
+
+
+
+
+    <Amenity AmenityType="OnSiteManagement">
       <Description/>
       <Rank/>
     </Amenity>
-
-
-
-
-
-
-
-
+    <Amenity AmenityType="Recycling">
+      <Description/>
+      <Rank/>
+    </Amenity>
 
 
 
@@ -110,14 +110,14 @@
       <Description/>
       <Rank/>
     </Amenity>
-
-
-
-
-
-
-
-
+    <Amenity AmenityType="RooftopLounge">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="SmokeFree">
+      <Description/>
+      <Rank/>
+    </Amenity>
 
 
 
@@ -126,10 +126,10 @@
       <Description/>
       <Rank/>
     </Amenity>
-
-
-
-
+    <Amenity AmenityType="Gate">
+      <Description/>
+      <Rank/>
+    </Amenity>
 
 
 
@@ -150,10 +150,10 @@
       <Description/>
       <Rank/>
     </Amenity>
-
-
-
-
+    <Amenity AmenityType="DryCleaningService">
+      <Description/>
+      <Rank/>
+    </Amenity>
     <Amenity AmenityType="Elevator">
       <Description/>
       <Rank/>
@@ -162,18 +162,18 @@
 
 
 
-    <Amenity AmenityType="FitnessCenter">
-      <Description/>
-      <Rank/>
-    </Amenity>
 
 
 
 
-    <Amenity AmenityType="FurnishedAvailable">
-      <Description/>
-      <Rank/>
-    </Amenity>
+
+
+
+
+
+
+
+
     <Amenity AmenityType="Garden">
       <Description/>
       <Rank/>
@@ -182,22 +182,22 @@
 
 
 
-
-
-
-
+    <Amenity SpecificAmenityType="AdditionalStorage">
+      <Description/>
+      <Rank/>
+    </Amenity>
     <Amenity SpecificAmenityType="IslandKitchen">
       <Description/>
       <Rank/>
     </Amenity>
-    <Amenity SpecificAmenityType="LargeClosets">
+
+
+
+
+    <Amenity SpecificAmenityType="Microwave">
       <Description/>
       <Rank/>
     </Amenity>
-
-
-
-
     <Amenity SpecificAmenityType="Pantry">
       <Description/>
       <Rank/>
@@ -210,10 +210,10 @@
 
 
 
-
-
-
-
+    <Amenity SpecificAmenityType="Range">
+      <Description/>
+      <Rank/>
+    </Amenity>
     <Amenity SpecificAmenityType="Refrigerator">
       <Description/>
       <Rank/>
@@ -222,38 +222,38 @@
       <Description/>
       <Rank/>
     </Amenity>
-    <Amenity SpecificAmenityType="TileFlooring">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="IndividualClimateControl">
       <Description/>
       <Rank/>
     </Amenity>
-
-
-
-
-    <Amenity SpecificAmenityType="View">
-      <Description/>
-      <Rank/>
-    </Amenity>
-
-
-
-
-    <Amenity SpecificAmenityType="WheelChair">
-      <Description/>
-      <Rank/>
-    </Amenity>
-
-
-
-
     <Amenity SpecificAmenityType="Disposal">
       <Description/>
       <Rank/>
     </Amenity>
-    <Amenity SpecificAmenityType="HighSpeed">
-      <Description/>
-      <Rank/>
-    </Amenity>
+
+
+
+
     <Amenity SpecificAmenityType="AirConditioner">
       <Description/>
       <Rank/>
@@ -270,10 +270,10 @@
 
 
 
-    <Amenity SpecificAmenityType="DishWasher">
-      <Description/>
-      <Rank/>
-    </Amenity>
+
+
+
+
     <Amenity SpecificAmenityType="DoubleVanities">
       <Description/>
       <Rank/>
@@ -282,38 +282,38 @@
       <Description/>
       <Rank/>
     </Amenity>
-
-
-
-
-    <Amenity SpecificAmenityType="Fireplace">
+    <Amenity SpecificAmenityType="Dryer">
       <Description/>
       <Rank/>
     </Amenity>
-    <Amenity SpecificAmenityType="FramedMirrors">
-      <Description/>
-      <Rank/>
-    </Amenity>
-    <Amenity SpecificAmenityType="Furnished">
-      <Description/>
-      <Rank/>
-    </Amenity>
+
+
+
+
+
+
+
+
+
+
+
+
     <Amenity SpecificAmenityType="Garage">
       <Description/>
       <Rank/>
     </Amenity>
-
-
-
-
-
-
-
-
-
-
-
-
+    <Amenity SpecificAmenityType="HardwoodFlooring">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="Heat">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="Other">
+      <Description>Under Cabinet Lighting</Description>
+      <Rank/>
+    </Amenity>
     <Deposit>
       <Amount AmountType="">
         <ValueRange/>
@@ -323,11 +323,11 @@
       <PortionRefundable/>
     </Deposit>
     <Policy>
-      <Pet Allowed="true">
-        <Pets Count="0" Description="" PetType="Dog" Weight="" size=""/>
+      <Pet Allowed="false">
+        <Pets Count="" Description="" PetType="" Weight="" size=""/>
         <Comment/>
-        <Deposit>425</Deposit>
-        <Fee>95</Fee>
+        <Deposit></Deposit>
+        <Fee></Fee>
         <Rent/>
         <FeeRange Min="" Max=""/>
         <Restrictions/>
@@ -336,8 +336,8 @@
       <Pet AllowedCat="true">
         <Pets Count="0" Description="" PetType="Cat" Weight="" size=""/>
         <Comment/>
-        <Deposit>75</Deposit>
-        <Fee>40</Fee>
+        <Deposit>475</Deposit>
+        <Fee>85</Fee>
         <Rent/>
         <FeeRange Min="" Max=""/>
         <Restrictions/>
@@ -472,7 +472,7 @@
       <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
       <DisplayedUnitsAvailable>3</DisplayedUnitsAvailable>
       <Room RoomType="Bedroom">
-        <Count>0</Count>
+        <Count>2</Count>
         <Comment></Comment>
       </Room>
       <Room RoomType="Bathroom">
@@ -496,11 +496,11 @@
       <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
       <DisplayedUnitsAvailable>2</DisplayedUnitsAvailable>
       <Room RoomType="Bedroom">
-        <Count>0</Count>
+        <Count>2</Count>
         <Comment></Comment>
       </Room>
       <Room RoomType="Bathroom">
-        <Count>0</Count>
+        <Count>2</Count>
         <Comment></Comment>
       </Room>
       <SquareFeet Min="925" Max="925"/>
@@ -2148,9 +2148,9 @@
     <ILS_Unit IDValue="537779_1Unit">
       <Units>
         <UnitID>537779_1Unit</UnitID>
-        <SyncUnitID>537779_1Unit_7614</SyncUnitID>
+        <SyncUnitID>537779_1Unit_8965</SyncUnitID>
         <MarketingName>Seville</MarketingName>
-        <UnitType>Seville_1Unit_7614</UnitType>
+        <UnitType>Seville_1Unit_8965</UnitType>
         <UnitBedrooms>1</UnitBedrooms>
         <UnitBathrooms>1</UnitBathrooms>
         <MinSquareFeet>535</MinSquareFeet>
@@ -2192,9 +2192,9 @@
     <ILS_Unit IDValue="537779_2Unit">
       <Units>
         <UnitID>537779_2Unit</UnitID>
-        <SyncUnitID>537779_2Unit_7614</SyncUnitID>
+        <SyncUnitID>537779_2Unit_8965</SyncUnitID>
         <MarketingName>Seville-R</MarketingName>
-        <UnitType>Seville-R_2Unit_7614</UnitType>
+        <UnitType>Seville-R_2Unit_8965</UnitType>
         <UnitBedrooms>1</UnitBedrooms>
         <UnitBathrooms>1</UnitBathrooms>
         <MinSquareFeet>535</MinSquareFeet>
@@ -2240,9 +2240,9 @@
     <ILS_Unit IDValue="537779_3Unit">
       <Units>
         <UnitID>537779_3Unit</UnitID>
-        <SyncUnitID>537779_3Unit_7614</SyncUnitID>
+        <SyncUnitID>537779_3Unit_8965</SyncUnitID>
         <MarketingName>Madrid</MarketingName>
-        <UnitType>Madrid_3Unit_7614</UnitType>
+        <UnitType>Madrid_3Unit_8965</UnitType>
         <UnitBedrooms>1</UnitBedrooms>
         <UnitBathrooms>1</UnitBathrooms>
         <MinSquareFeet>625</MinSquareFeet>
@@ -2288,9 +2288,9 @@
     <ILS_Unit IDValue="537779_4Unit">
       <Units>
         <UnitID>537779_4Unit</UnitID>
-        <SyncUnitID>537779_4Unit_7614</SyncUnitID>
+        <SyncUnitID>537779_4Unit_8965</SyncUnitID>
         <MarketingName>Madrid-R</MarketingName>
-        <UnitType>Madrid-R_4Unit_7614</UnitType>
+        <UnitType>Madrid-R_4Unit_8965</UnitType>
         <UnitBedrooms>1</UnitBedrooms>
         <UnitBathrooms>1</UnitBathrooms>
         <MinSquareFeet>625</MinSquareFeet>
@@ -2340,9 +2340,9 @@
     <ILS_Unit IDValue="537779_5Unit">
       <Units>
         <UnitID>537779_5Unit</UnitID>
-        <SyncUnitID>537779_5Unit_7614</SyncUnitID>
+        <SyncUnitID>537779_5Unit_8965</SyncUnitID>
         <MarketingName>Cordoba-R</MarketingName>
-        <UnitType>Cordoba-R_5Unit_7614</UnitType>
+        <UnitType>Cordoba-R_5Unit_8965</UnitType>
         <UnitBedrooms>1</UnitBedrooms>
         <UnitBathrooms>1</UnitBathrooms>
         <MinSquareFeet>725</MinSquareFeet>
@@ -2384,10 +2384,10 @@
     <ILS_Unit IDValue="537779_6Unit">
       <Units>
         <UnitID>537779_6Unit</UnitID>
-        <SyncUnitID>537779_6Unit_7614</SyncUnitID>
+        <SyncUnitID>537779_6Unit_8965</SyncUnitID>
         <MarketingName>Mallorca-R</MarketingName>
-        <UnitType>Mallorca-R_6Unit_7614</UnitType>
-        <UnitBedrooms>0</UnitBedrooms>
+        <UnitType>Mallorca-R_6Unit_8965</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
         <UnitBathrooms>1</UnitBathrooms>
         <MinSquareFeet>890</MinSquareFeet>
         <MaxSquareFeet>890</MaxSquareFeet>
@@ -2397,7 +2397,7 @@
         <UnitEconomicStatus>residential</UnitEconomicStatus>
         <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
         <NumberOccupants/>
-        <FloorplanName>Mallorca-R_0BR_1BA</FloorplanName>
+        <FloorplanName>Mallorca-R_2BR_1BA</FloorplanName>
         <FloorplanID>537779_6Unit</FloorplanID>
         <PhaseName/>
         <BuildingName/>
@@ -2428,11 +2428,11 @@
     <ILS_Unit IDValue="537779_7Unit">
       <Units>
         <UnitID>537779_7Unit</UnitID>
-        <SyncUnitID>537779_7Unit_7614</SyncUnitID>
+        <SyncUnitID>537779_7Unit_8965</SyncUnitID>
         <MarketingName>Valencia-R</MarketingName>
-        <UnitType>Valencia-R_7Unit_7614</UnitType>
-        <UnitBedrooms>0</UnitBedrooms>
-        <UnitBathrooms>0</UnitBathrooms>
+        <UnitType>Valencia-R_7Unit_8965</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
         <MinSquareFeet>925</MinSquareFeet>
         <MaxSquareFeet>925</MaxSquareFeet>
         <SquareFootType>Internal</SquareFootType>
@@ -2441,7 +2441,7 @@
         <UnitEconomicStatus>residential</UnitEconomicStatus>
         <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
         <NumberOccupants/>
-        <FloorplanName>Valencia-R_0BR_0BA</FloorplanName>
+        <FloorplanName>Valencia-R_2BR_2BA</FloorplanName>
         <FloorplanID>537779_7Unit</FloorplanID>
         <PhaseName/>
         <BuildingName/>
