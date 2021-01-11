@@ -1,0 +1,6229 @@
+<?xml version="" encoding=""?>
+<PhysicalProperty>
+  <Property IDValue="492972">
+    <PropertyID>
+      <SyncMgmtID>4493</SyncMgmtID>
+      <SyncPropertyID>492972_4493</SyncPropertyID>
+      <MarketingName>Ariva Apartments</MarketingName>
+      <WebSite>www.arivaapartments.com</WebSite>
+      <Email></Email>
+      <Phone PhoneType="">
+        <PhoneNumber>844-570-0429</PhoneNumber>
+      </Phone>
+      <Address AddressType="">
+        <AddressLine1>4855 Ariva Way</AddressLine1>
+        <City>San Diego</City>
+        <State>CA</State>
+        <CountyName></CountyName>
+        <PostalCode>92123</PostalCode>
+      </Address>
+    </PropertyID>
+    <ILS_Identification ILS_IdentificationType="" RentalType="">
+      <Latitude>32.8288</Latitude>
+      <Longitude>-117.1396</Longitude>
+    </ILS_Identification>
+    <Information>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <UnitCount></UnitCount>
+      <LongDescription></LongDescription>
+      <DrivingDirections/>
+      <FacebookURL/>
+      <TwitterHandle/>
+      <PinterestURL/>
+    </Information>
+    <Fee>
+      <AdminFee/>
+      <ApplicationFee/>
+      <BrokerFee/>
+    </Fee>
+    <Amenity AmenityType="Availability24Hours">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="LEED">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Library">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity AmenityType="Garage">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="OnSiteMaintenance">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity AmenityType="Recycling">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="PackageReceiving">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+
+
+
+
+    <Amenity AmenityType="WirelessInternet">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity AmenityType="Gate">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity AmenityType="CoffeeBar">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="CoverPark">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="WheelChair">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity AmenityType="EnergyStarCertified">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity AmenityType="Concierge">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity AmenityType="Garden">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity SpecificAmenityType="AdditionalStorage">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="IslandKitchen">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="Pantry">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="PrivateBalcony">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="Refrigerator">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="View">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity SpecificAmenityType="WheelChair">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="Balcony">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="Cable">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="ControlledAccess">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity SpecificAmenityType="DoubleVanities">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="Fireplace">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="FramedMirrors">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="HardwoodFlooring">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="Heat">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="Other">
+      <Description>Under Cabinet Lighting</Description>
+      <Rank/>
+    </Amenity>
+    <Deposit>
+      <Amount AmountType="">
+        <ValueRange/>
+      </Amount>
+      <Description/>
+      <PercentRefundable/>
+      <PortionRefundable/>
+    </Deposit>
+    <Policy>
+      <Pet Allowed="false">
+        <Pets Count="" Description="" PetType="" Weight="" size=""/>
+        <Comment/>
+        <Deposit></Deposit>
+        <Fee></Fee>
+        <Rent/>
+        <FeeRange Min="" Max=""/>
+        <Restrictions/>
+        <PetCare></PetCare>
+      </Pet>
+      <Pet AllowedCat="true">
+        <Pets Count="0" Description="" PetType="Cat" Weight="" size=""/>
+        <Comment/>
+        <Deposit>350</Deposit>
+        <Fee>45</Fee>
+        <Rent/>
+        <FeeRange Min="" Max=""/>
+        <Restrictions/>
+        <PetCare></PetCare>
+      </Pet>
+      <General/>
+    </Policy>
+    <Floorplan IDValue="492972_1Unit">
+      <SyncFloorplanID>492972_1Unit</SyncFloorplanID>
+      <Name>S1</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>0</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="595" Max="595"/>
+      <MarketRent Min="1922" Max="1922"/>
+      <EffectiveRent Min="1922" Max="1922"/>
+      <File FileID="492972_1Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments studio S1 floor plan.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="492972_2Unit">
+      <SyncFloorplanID>492972_2Unit</SyncFloorplanID>
+      <Name>A1</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="708" Max="708"/>
+      <MarketRent Min="2250" Max="2250"/>
+      <EffectiveRent Min="2250" Max="2250"/>
+      <File FileID="492972_2Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments 1 bedroom 1 bath A1  floor plan.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="492972_3Unit">
+      <SyncFloorplanID>492972_3Unit</SyncFloorplanID>
+      <Name>A2</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="747" Max="747"/>
+      <MarketRent Min="2267" Max="2267"/>
+      <EffectiveRent Min="2267" Max="2267"/>
+      <File FileID="492972_3Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments 1 bedroom 1 bath A2  floor plan.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="492972_4Unit">
+      <SyncFloorplanID>492972_4Unit</SyncFloorplanID>
+      <Name>A3</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="790" Max="790"/>
+      <MarketRent Min="2360" Max="2360"/>
+      <EffectiveRent Min="2360" Max="2360"/>
+      <File FileID="492972_4Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments 1 bedroom 1 bath A3(1) Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="492972_5Unit">
+      <SyncFloorplanID>492972_5Unit</SyncFloorplanID>
+      <Name>A3-1</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="790" Max="790"/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="492972_5Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments 1 bedroom 1 bath A3(2) Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="492972_6Unit">
+      <SyncFloorplanID>492972_6Unit</SyncFloorplanID>
+      <Name>A4</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="820" Max="820"/>
+      <MarketRent Min="2334" Max="2334"/>
+      <EffectiveRent Min="2334" Max="2334"/>
+      <File FileID="492972_6Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments 1 bedroom 1 bath A4  floor plan.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="492972_7Unit">
+      <SyncFloorplanID>492972_7Unit</SyncFloorplanID>
+      <Name>A5</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="826" Max="826"/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="492972_7Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments 1 bedroom 1 bath A5  floor plan.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="492972_8Unit">
+      <SyncFloorplanID>492972_8Unit</SyncFloorplanID>
+      <Name>B1</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="2686" Max="2686"/>
+      <EffectiveRent Min="2686" Max="2686"/>
+      <File FileID="492972_8Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments 2 bedroom 2 bath B1  floor plan.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="492972_9Unit">
+      <SyncFloorplanID>492972_9Unit</SyncFloorplanID>
+      <Name>B3</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="2820" Max="2820"/>
+      <EffectiveRent Min="2820" Max="2820"/>
+      <File FileID="492972_9Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments 2 bedroom 2 bath B3  floor plan.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="492972_10Unit">
+      <SyncFloorplanID>492972_10Unit</SyncFloorplanID>
+      <Name>B2</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="492972_10Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src></Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <ILS_Unit IDValue="492972_1Unit">
+      <Units>
+        <UnitID>492972_1Unit</UnitID>
+        <SyncUnitID>492972_1Unit_4493</SyncUnitID>
+        <MarketingName>S1</MarketingName>
+        <UnitType>S1_1Unit_4493</UnitType>
+        <UnitBedrooms>0</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>595</MinSquareFeet>
+        <MaxSquareFeet>595</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>1922</UnitRent>
+        <MarketRent>1922</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>S1_0BR_1BA</FloorplanName>
+        <FloorplanID>492972_1Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>4855 Ariva Way</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="492972_2Unit">
+      <Units>
+        <UnitID>492972_2Unit</UnitID>
+        <SyncUnitID>492972_2Unit_4493</SyncUnitID>
+        <MarketingName>A1</MarketingName>
+        <UnitType>A1_2Unit_4493</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>708</MinSquareFeet>
+        <MaxSquareFeet>708</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2250</UnitRent>
+        <MarketRent>2250</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>A1_1BR_1BA</FloorplanName>
+        <FloorplanID>492972_2Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>4855 Ariva Way</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="492972_3Unit">
+      <Units>
+        <UnitID>492972_3Unit</UnitID>
+        <SyncUnitID>492972_3Unit_4493</SyncUnitID>
+        <MarketingName>A2</MarketingName>
+        <UnitType>A2_3Unit_4493</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>747</MinSquareFeet>
+        <MaxSquareFeet>747</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2267</UnitRent>
+        <MarketRent>2267</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>A2_1BR_1BA</FloorplanName>
+        <FloorplanID>492972_3Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>4855 Ariva Way</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="492972_4Unit">
+      <Units>
+        <UnitID>492972_4Unit</UnitID>
+        <SyncUnitID>492972_4Unit_4493</SyncUnitID>
+        <MarketingName>A3</MarketingName>
+        <UnitType>A3_4Unit_4493</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>790</MinSquareFeet>
+        <MaxSquareFeet>790</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2360</UnitRent>
+        <MarketRent>2360</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>A3_1BR_1BA</FloorplanName>
+        <FloorplanID>492972_4Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>4855 Ariva Way</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="492972_5Unit">
+      <Units>
+        <UnitID>492972_5Unit</UnitID>
+        <SyncUnitID>492972_5Unit_4493</SyncUnitID>
+        <MarketingName>A3-1</MarketingName>
+        <UnitType>A3-1_5Unit_4493</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>790</MinSquareFeet>
+        <MaxSquareFeet>790</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>A3-1_1BR_1BA</FloorplanName>
+        <FloorplanID>492972_5Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>4855 Ariva Way</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="492972_6Unit">
+      <Units>
+        <UnitID>492972_6Unit</UnitID>
+        <SyncUnitID>492972_6Unit_4493</SyncUnitID>
+        <MarketingName>A4</MarketingName>
+        <UnitType>A4_6Unit_4493</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>820</MinSquareFeet>
+        <MaxSquareFeet>820</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2334</UnitRent>
+        <MarketRent>2334</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>A4_1BR_1BA</FloorplanName>
+        <FloorplanID>492972_6Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>4855 Ariva Way</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="492972_7Unit">
+      <Units>
+        <UnitID>492972_7Unit</UnitID>
+        <SyncUnitID>492972_7Unit_4493</SyncUnitID>
+        <MarketingName>A5</MarketingName>
+        <UnitType>A5_7Unit_4493</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>826</MinSquareFeet>
+        <MaxSquareFeet>826</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>A5_1BR_1BA</FloorplanName>
+        <FloorplanID>492972_7Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>4855 Ariva Way</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="492972_8Unit">
+      <Units>
+        <UnitID>492972_8Unit</UnitID>
+        <SyncUnitID>492972_8Unit_4493</SyncUnitID>
+        <MarketingName>B1</MarketingName>
+        <UnitType>B1_8Unit_4493</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2686</UnitRent>
+        <MarketRent>2686</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>B1_2BR_2BA</FloorplanName>
+        <FloorplanID>492972_8Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>4855 Ariva Way</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="492972_9Unit">
+      <Units>
+        <UnitID>492972_9Unit</UnitID>
+        <SyncUnitID>492972_9Unit_4493</SyncUnitID>
+        <MarketingName>B3</MarketingName>
+        <UnitType>B3_9Unit_4493</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2820</UnitRent>
+        <MarketRent>2820</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>B3_2BR_2BA</FloorplanName>
+        <FloorplanID>492972_9Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>4855 Ariva Way</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="492972_10Unit">
+      <Units>
+        <UnitID>492972_10Unit</UnitID>
+        <SyncUnitID>492972_10Unit_4493</SyncUnitID>
+        <MarketingName>B2</MarketingName>
+        <UnitType>B2_10Unit_4493</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>B2_2BR_2BA</FloorplanName>
+        <FloorplanID>492972_10Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>4855 Ariva Way</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <File FileID="492972_0Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>492972_0Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments Model Living Living Room.jpg</Src>
+      <Rank>0</Rank>
+    </File>
+    <File FileID="492972_1Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>492972_1Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments Model Kitchen and Countertop.jpg</Src>
+      <Rank>1</Rank>
+    </File>
+    <File FileID="492972_2Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>492972_2Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments Model Living Room and Couch.jpg</Src>
+      <Rank>2</Rank>
+    </File>
+    <File FileID="492972_3Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>492972_3Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments Model Master Bedroom.jpg</Src>
+      <Rank>3</Rank>
+    </File>
+    <File FileID="492972_4Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>492972_4Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments Bathroom.jpg</Src>
+      <Rank>4</Rank>
+    </File>
+    <File FileID="492972_5Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>492972_5Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments Model Bedroom and Door.jpg</Src>
+      <Rank>5</Rank>
+    </File>
+    <File FileID="492972_6Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>492972_6Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments Fitness Center Equipment.jpg</Src>
+      <Rank>6</Rank>
+    </File>
+    <File FileID="492972_7Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>492972_7Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments Yoga Studio.jpg</Src>
+      <Rank>7</Rank>
+    </File>
+    <File FileID="492972_8Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>492972_8Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments Kitchen and Bar Top.png</Src>
+      <Rank>8</Rank>
+    </File>
+    <File FileID="492972_9Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>492972_9Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments Pool Area and Pool Table.jpg</Src>
+      <Rank>9</Rank>
+    </File>
+    <File FileID="492972_10Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>492972_10Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments Pool Area Lounge Chairs in Day.jpg</Src>
+      <Rank>10</Rank>
+    </File>
+    <File FileID="492972_11Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>492972_11Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments Outdoor Fire Pit and Seating Area at Twilight.jpg</Src>
+      <Rank>11</Rank>
+    </File>
+    <File FileID="492972_12Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>492972_12Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments Conference Table and Lounge.jpg</Src>
+      <Rank>12</Rank>
+    </File>
+    <File FileID="492972_13Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>492972_13Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments Exterior Leasing Office Night.jpg</Src>
+      <Rank>13</Rank>
+    </File>
+    <File FileID="492972_14Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>492972_14Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/492972/Ariva Apartments Outdoor Seating and Fireplace.jpg</Src>
+      <Rank>14</Rank>
+    </File>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </Property>
+</PhysicalProperty>

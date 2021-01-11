@@ -1,0 +1,6229 @@
+<?xml version="" encoding=""?>
+<PhysicalProperty>
+  <Property IDValue="1103398">
+    <PropertyID>
+      <SyncMgmtID>3380</SyncMgmtID>
+      <SyncPropertyID>1103398_3380</SyncPropertyID>
+      <MarketingName>Vive on the Park</MarketingName>
+      <WebSite></WebSite>
+      <Email></Email>
+      <Phone PhoneType="">
+        <PhoneNumber></PhoneNumber>
+      </Phone>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <City>San Diego</City>
+        <State>CA</State>
+        <CountyName></CountyName>
+        <PostalCode>92123</PostalCode>
+      </Address>
+    </PropertyID>
+    <ILS_Identification ILS_IdentificationType="" RentalType="">
+      <Latitude>32.8271</Latitude>
+      <Longitude>-117.1401</Longitude>
+    </ILS_Identification>
+    <Information>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <UnitCount></UnitCount>
+      <LongDescription></LongDescription>
+      <DrivingDirections/>
+      <FacebookURL/>
+      <TwitterHandle/>
+      <PinterestURL/>
+    </Information>
+    <Fee>
+      <AdminFee/>
+      <ApplicationFee/>
+      <BrokerFee/>
+    </Fee>
+    <Amenity AmenityType="Availability24Hours">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="LEED">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Library">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Retail">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Garage">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="OnSiteMaintenance">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="OnSiteManagement">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Recycling">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="PackageReceiving">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity AmenityType="RooftopLounge">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+
+
+
+
+    <Amenity AmenityType="Gate">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="BusinessCenter">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="CarChargingStation">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="CoffeeBar">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity AmenityType="WheelChair">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="DryCleaningService">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Elevator">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="EnergyStarCertified">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="FitnessCenter">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Concierge">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="FurnishedAvailable">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Garden">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Other">
+      <Description>10 Person Private Dinning Chef's Kitchen</Description>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="Microwave">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity SpecificAmenityType="PrivateBalcony">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity SpecificAmenityType="Range">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="Refrigerator">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="StainlessSteel">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="View">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="Washer">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="Disposal">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="ControlledAccess">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity SpecificAmenityType="DoubleVanities">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="Fireplace">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity SpecificAmenityType="Furnished">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity SpecificAmenityType="HardwoodFlooring">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="Heat">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Deposit>
+      <Amount AmountType="">
+        <ValueRange/>
+      </Amount>
+      <Description/>
+      <PercentRefundable/>
+      <PortionRefundable/>
+    </Deposit>
+    <Policy>
+      <Pet Allowed="true">
+        <Pets Count="0" Description="" PetType="Dog" Weight="" size=""/>
+        <Comment/>
+        <Deposit>200</Deposit>
+        <Fee>90</Fee>
+        <Rent/>
+        <FeeRange Min="" Max=""/>
+        <Restrictions/>
+        <PetCare></PetCare>
+      </Pet>
+      <Pet AllowedCat="true">
+        <Pets Count="0" Description="" PetType="Cat" Weight="" size=""/>
+        <Comment/>
+        <Deposit>400</Deposit>
+        <Fee>55</Fee>
+        <Rent/>
+        <FeeRange Min="" Max=""/>
+        <Restrictions/>
+        <PetCare></PetCare>
+      </Pet>
+      <General/>
+    </Policy>
+    <Floorplan IDValue="1103398_1Unit">
+      <SyncFloorplanID>1103398_1Unit</SyncFloorplanID>
+      <Name>Studio A</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>0</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="532" Max="532"/>
+      <MarketRent Min="2286" Max="2286"/>
+      <EffectiveRent Min="2286" Max="2286"/>
+      <File FileID="1103398_1Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Studio Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_2Unit">
+      <SyncFloorplanID>1103398_2Unit</SyncFloorplanID>
+      <Name>Studio B</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>0</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="546" Max="546"/>
+      <MarketRent Min="2006" Max="2006"/>
+      <EffectiveRent Min="2006" Max="2006"/>
+      <File FileID="1103398_2Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Studio Floor Plan San Diego, California(1).jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_3Unit">
+      <SyncFloorplanID>1103398_3Unit</SyncFloorplanID>
+      <Name>Studio C</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>0</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="568" Max="568"/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_3Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Studio Floor Plan San Diego, California(2).jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_4Unit">
+      <SyncFloorplanID>1103398_4Unit</SyncFloorplanID>
+      <Name>One Bed One Bath A</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="625" Max="625"/>
+      <MarketRent Min="2396" Max="2396"/>
+      <EffectiveRent Min="2396" Max="2396"/>
+      <File FileID="1103398_4Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park One Bedroom One Bath A Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_5Unit">
+      <SyncFloorplanID>1103398_5Unit</SyncFloorplanID>
+      <Name>One Bed One Bath B</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="638" Max="638"/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_5Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park One Bedroom One Bath B Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_6Unit">
+      <SyncFloorplanID>1103398_6Unit</SyncFloorplanID>
+      <Name>One Bed One Bath C</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="645" Max="645"/>
+      <MarketRent Min="2354" Max="2354"/>
+      <EffectiveRent Min="2354" Max="2354"/>
+      <File FileID="1103398_6Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park One Bedroom One Bath C Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_7Unit">
+      <SyncFloorplanID>1103398_7Unit</SyncFloorplanID>
+      <Name>One Bed One Bath D</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="697" Max="697"/>
+      <MarketRent Min="2290" Max="2290"/>
+      <EffectiveRent Min="2290" Max="2290"/>
+      <File FileID="1103398_7Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park One Bedroom One Bath D Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_8Unit">
+      <SyncFloorplanID>1103398_8Unit</SyncFloorplanID>
+      <Name>One Bed One Bath E</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="700" Max="700"/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_8Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park One Bedroom One Bath E Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_9Unit">
+      <SyncFloorplanID>1103398_9Unit</SyncFloorplanID>
+      <Name>One Bed One Bath F</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="709" Max="709"/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_9Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park One Bedroom One Bath F Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_10Unit">
+      <SyncFloorplanID>1103398_10Unit</SyncFloorplanID>
+      <Name>One Bed One Bath G</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="714" Max="714"/>
+      <MarketRent Min="2596" Max="2596"/>
+      <EffectiveRent Min="2596" Max="2596"/>
+      <File FileID="1103398_10Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park One Bedroom One Bath G Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_11Unit">
+      <SyncFloorplanID>1103398_11Unit</SyncFloorplanID>
+      <Name>One Bed One Bath H</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="723" Max="723"/>
+      <MarketRent Min="2332" Max="2332"/>
+      <EffectiveRent Min="2332" Max="2332"/>
+      <File FileID="1103398_11Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park One Bedroom One Bath H Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_12Unit">
+      <SyncFloorplanID>1103398_12Unit</SyncFloorplanID>
+      <Name>One Bed One Bath I</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="728" Max="728"/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_12Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park One Bedroom One Bath I Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_13Unit">
+      <SyncFloorplanID>1103398_13Unit</SyncFloorplanID>
+      <Name>One Bed One Bath J</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="730" Max="730"/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_13Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park One Bedroom One Bath J Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_14Unit">
+      <SyncFloorplanID>1103398_14Unit</SyncFloorplanID>
+      <Name>One Bed One Bath K</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="732" Max="732"/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_14Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park One Bedroom One Bath K Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_15Unit">
+      <SyncFloorplanID>1103398_15Unit</SyncFloorplanID>
+      <Name>One Bed One Bath L</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="745" Max="745"/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_15Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park One Bedroom One Bath L Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_16Unit">
+      <SyncFloorplanID>1103398_16Unit</SyncFloorplanID>
+      <Name>One Bed One Bath M</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="788" Max="788"/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_16Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park One Bedroom One Bath M Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_17Unit">
+      <SyncFloorplanID>1103398_17Unit</SyncFloorplanID>
+      <Name>One Bed One Bath N</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="791" Max="791"/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_17Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park One Bedroom One Bath N Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_18Unit">
+      <SyncFloorplanID>1103398_18Unit</SyncFloorplanID>
+      <Name>One Bed One Bath O</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="812" Max="812"/>
+      <MarketRent Min="2533" Max="2533"/>
+      <EffectiveRent Min="2533" Max="2533"/>
+      <File FileID="1103398_18Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park One Bed One Bath Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_19Unit">
+      <SyncFloorplanID>1103398_19Unit</SyncFloorplanID>
+      <Name>One Bed One Bath P</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="863" Max="863"/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_19Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park One Bedroom One Bath P Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_20Unit">
+      <SyncFloorplanID>1103398_20Unit</SyncFloorplanID>
+      <Name>One Bed One Bath Q</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="879" Max="879"/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_20Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park One Bedroom One Bath Q Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_21Unit">
+      <SyncFloorplanID>1103398_21Unit</SyncFloorplanID>
+      <Name>One Bed One Bath R</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="921" Max="921"/>
+      <MarketRent Min="2778" Max="2778"/>
+      <EffectiveRent Min="2778" Max="2778"/>
+      <File FileID="1103398_21Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park One Bedroom One Bath R Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_22Unit">
+      <SyncFloorplanID>1103398_22Unit</SyncFloorplanID>
+      <Name>One Bed One Bath S</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="950" Max="950"/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_22Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park One Bedroom One Bath S Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_23Unit">
+      <SyncFloorplanID>1103398_23Unit</SyncFloorplanID>
+      <Name>One Bed One Bath T</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="2599" Max="2599"/>
+      <EffectiveRent Min="2599" Max="2599"/>
+      <File FileID="1103398_23Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park One Bedroom One Bath T Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_24Unit">
+      <SyncFloorplanID>1103398_24Unit</SyncFloorplanID>
+      <Name>Two Bed Two Bath A</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="979" Max="979"/>
+      <MarketRent Min="3136" Max="3136"/>
+      <EffectiveRent Min="3136" Max="3136"/>
+      <File FileID="1103398_24Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Two Bed Two Bath A Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_25Unit">
+      <SyncFloorplanID>1103398_25Unit</SyncFloorplanID>
+      <Name>Two Bed Two Bath B</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_25Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Two Bed Two Bath B Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_26Unit">
+      <SyncFloorplanID>1103398_26Unit</SyncFloorplanID>
+      <Name>Two Bed Two Bath C</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="3053" Max="3053"/>
+      <EffectiveRent Min="3053" Max="3053"/>
+      <File FileID="1103398_26Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Two Bed Two Bath C Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_27Unit">
+      <SyncFloorplanID>1103398_27Unit</SyncFloorplanID>
+      <Name>Two Bed Two Bath D</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="3035" Max="3035"/>
+      <EffectiveRent Min="3035" Max="3035"/>
+      <File FileID="1103398_27Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Two Bed Two Bath D Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_28Unit">
+      <SyncFloorplanID>1103398_28Unit</SyncFloorplanID>
+      <Name>Two Bed Two Bath E</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_28Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Two Bed Two Bath E Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_29Unit">
+      <SyncFloorplanID>1103398_29Unit</SyncFloorplanID>
+      <Name>Two Bed Two Bath F</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_29Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Two Bed Two Bath F Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_30Unit">
+      <SyncFloorplanID>1103398_30Unit</SyncFloorplanID>
+      <Name>Two Bed Two Bath G</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_30Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Two Bed Two Bath G Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_31Unit">
+      <SyncFloorplanID>1103398_31Unit</SyncFloorplanID>
+      <Name>Two Bed Two Bath H</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_31Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Two Bed Two Bath H Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_32Unit">
+      <SyncFloorplanID>1103398_32Unit</SyncFloorplanID>
+      <Name>Two Bed Two Bath I</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="3013" Max="3013"/>
+      <EffectiveRent Min="3013" Max="3013"/>
+      <File FileID="1103398_32Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Two Bed Two Bath I Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_33Unit">
+      <SyncFloorplanID>1103398_33Unit</SyncFloorplanID>
+      <Name>Two Bed Two Bath J</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_33Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Two Bed Two Bath J Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_34Unit">
+      <SyncFloorplanID>1103398_34Unit</SyncFloorplanID>
+      <Name>Two Bed Two Bath K</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="2970" Max="2970"/>
+      <EffectiveRent Min="2970" Max="2970"/>
+      <File FileID="1103398_34Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Two Bed Two Bath K Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_35Unit">
+      <SyncFloorplanID>1103398_35Unit</SyncFloorplanID>
+      <Name>Two Bed Two Bath L</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_35Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Two Bed Two Bath L Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_36Unit">
+      <SyncFloorplanID>1103398_36Unit</SyncFloorplanID>
+      <Name>Two Bed Two Bath M</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="3080" Max="3080"/>
+      <EffectiveRent Min="3080" Max="3080"/>
+      <File FileID="1103398_36Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Two Bed Two Bath M Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_37Unit">
+      <SyncFloorplanID>1103398_37Unit</SyncFloorplanID>
+      <Name>Two Bed Two Bath N</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_37Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Two Bed Two Bath N Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_38Unit">
+      <SyncFloorplanID>1103398_38Unit</SyncFloorplanID>
+      <Name>Two Bed Two Bath O</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_38Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Two Bed Two Bath O Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_39Unit">
+      <SyncFloorplanID>1103398_39Unit</SyncFloorplanID>
+      <Name>Two Bed Two Bath P</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="3133" Max="3133"/>
+      <EffectiveRent Min="3133" Max="3133"/>
+      <File FileID="1103398_39Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Two Bed Two Bath P Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_40Unit">
+      <SyncFloorplanID>1103398_40Unit</SyncFloorplanID>
+      <Name>Two Bed Two Bath Q</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_40Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Two Bed Two Bath Q Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_41Unit">
+      <SyncFloorplanID>1103398_41Unit</SyncFloorplanID>
+      <Name>Two Bed Two Bath R</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_41Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Two Bed Two Bath R Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_42Unit">
+      <SyncFloorplanID>1103398_42Unit</SyncFloorplanID>
+      <Name>Two Bed Two Bath S</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_42Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Two Bed Two Bath S Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1103398_43Unit">
+      <SyncFloorplanID>1103398_43Unit</SyncFloorplanID>
+      <Name>Two Bed Two Bath T</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="1103398_43Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Two Bed Two Bath Floor Plan San Diego, California.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <ILS_Unit IDValue="1103398_1Unit">
+      <Units>
+        <UnitID>1103398_1Unit</UnitID>
+        <SyncUnitID>1103398_1Unit_3380</SyncUnitID>
+        <MarketingName>Studio A</MarketingName>
+        <UnitType>Studio A_1Unit_3380</UnitType>
+        <UnitBedrooms>0</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>532</MinSquareFeet>
+        <MaxSquareFeet>532</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2286</UnitRent>
+        <MarketRent>2286</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Studio A_0BR_1BA</FloorplanName>
+        <FloorplanID>1103398_1Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_2Unit">
+      <Units>
+        <UnitID>1103398_2Unit</UnitID>
+        <SyncUnitID>1103398_2Unit_3380</SyncUnitID>
+        <MarketingName>Studio B</MarketingName>
+        <UnitType>Studio B_2Unit_3380</UnitType>
+        <UnitBedrooms>0</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>546</MinSquareFeet>
+        <MaxSquareFeet>546</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2006</UnitRent>
+        <MarketRent>2006</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Studio B_0BR_1BA</FloorplanName>
+        <FloorplanID>1103398_2Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_3Unit">
+      <Units>
+        <UnitID>1103398_3Unit</UnitID>
+        <SyncUnitID>1103398_3Unit_3380</SyncUnitID>
+        <MarketingName>Studio C</MarketingName>
+        <UnitType>Studio C_3Unit_3380</UnitType>
+        <UnitBedrooms>0</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>568</MinSquareFeet>
+        <MaxSquareFeet>568</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Studio C_0BR_1BA</FloorplanName>
+        <FloorplanID>1103398_3Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_4Unit">
+      <Units>
+        <UnitID>1103398_4Unit</UnitID>
+        <SyncUnitID>1103398_4Unit_3380</SyncUnitID>
+        <MarketingName>One Bed One Bath A</MarketingName>
+        <UnitType>One Bed One Bath A_4Unit_3380</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>625</MinSquareFeet>
+        <MaxSquareFeet>625</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2396</UnitRent>
+        <MarketRent>2396</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>One Bed One Bath A_1BR_1BA</FloorplanName>
+        <FloorplanID>1103398_4Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_5Unit">
+      <Units>
+        <UnitID>1103398_5Unit</UnitID>
+        <SyncUnitID>1103398_5Unit_3380</SyncUnitID>
+        <MarketingName>One Bed One Bath B</MarketingName>
+        <UnitType>One Bed One Bath B_5Unit_3380</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>638</MinSquareFeet>
+        <MaxSquareFeet>638</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>One Bed One Bath B_1BR_1BA</FloorplanName>
+        <FloorplanID>1103398_5Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_6Unit">
+      <Units>
+        <UnitID>1103398_6Unit</UnitID>
+        <SyncUnitID>1103398_6Unit_3380</SyncUnitID>
+        <MarketingName>One Bed One Bath C</MarketingName>
+        <UnitType>One Bed One Bath C_6Unit_3380</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>645</MinSquareFeet>
+        <MaxSquareFeet>645</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2354</UnitRent>
+        <MarketRent>2354</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>One Bed One Bath C_1BR_1BA</FloorplanName>
+        <FloorplanID>1103398_6Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_7Unit">
+      <Units>
+        <UnitID>1103398_7Unit</UnitID>
+        <SyncUnitID>1103398_7Unit_3380</SyncUnitID>
+        <MarketingName>One Bed One Bath D</MarketingName>
+        <UnitType>One Bed One Bath D_7Unit_3380</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>697</MinSquareFeet>
+        <MaxSquareFeet>697</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2290</UnitRent>
+        <MarketRent>2290</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>One Bed One Bath D_1BR_1BA</FloorplanName>
+        <FloorplanID>1103398_7Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_8Unit">
+      <Units>
+        <UnitID>1103398_8Unit</UnitID>
+        <SyncUnitID>1103398_8Unit_3380</SyncUnitID>
+        <MarketingName>One Bed One Bath E</MarketingName>
+        <UnitType>One Bed One Bath E_8Unit_3380</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>700</MinSquareFeet>
+        <MaxSquareFeet>700</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>One Bed One Bath E_1BR_1BA</FloorplanName>
+        <FloorplanID>1103398_8Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_9Unit">
+      <Units>
+        <UnitID>1103398_9Unit</UnitID>
+        <SyncUnitID>1103398_9Unit_3380</SyncUnitID>
+        <MarketingName>One Bed One Bath F</MarketingName>
+        <UnitType>One Bed One Bath F_9Unit_3380</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>709</MinSquareFeet>
+        <MaxSquareFeet>709</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>One Bed One Bath F_1BR_1BA</FloorplanName>
+        <FloorplanID>1103398_9Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_10Unit">
+      <Units>
+        <UnitID>1103398_10Unit</UnitID>
+        <SyncUnitID>1103398_10Unit_3380</SyncUnitID>
+        <MarketingName>One Bed One Bath G</MarketingName>
+        <UnitType>One Bed One Bath G_10Unit_3380</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>714</MinSquareFeet>
+        <MaxSquareFeet>714</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2596</UnitRent>
+        <MarketRent>2596</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>One Bed One Bath G_1BR_1BA</FloorplanName>
+        <FloorplanID>1103398_10Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_11Unit">
+      <Units>
+        <UnitID>1103398_11Unit</UnitID>
+        <SyncUnitID>1103398_11Unit_3380</SyncUnitID>
+        <MarketingName>One Bed One Bath H</MarketingName>
+        <UnitType>One Bed One Bath H_11Unit_3380</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>723</MinSquareFeet>
+        <MaxSquareFeet>723</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2332</UnitRent>
+        <MarketRent>2332</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>One Bed One Bath H_1BR_1BA</FloorplanName>
+        <FloorplanID>1103398_11Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_12Unit">
+      <Units>
+        <UnitID>1103398_12Unit</UnitID>
+        <SyncUnitID>1103398_12Unit_3380</SyncUnitID>
+        <MarketingName>One Bed One Bath I</MarketingName>
+        <UnitType>One Bed One Bath I_12Unit_3380</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>728</MinSquareFeet>
+        <MaxSquareFeet>728</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>One Bed One Bath I_1BR_1BA</FloorplanName>
+        <FloorplanID>1103398_12Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_13Unit">
+      <Units>
+        <UnitID>1103398_13Unit</UnitID>
+        <SyncUnitID>1103398_13Unit_3380</SyncUnitID>
+        <MarketingName>One Bed One Bath J</MarketingName>
+        <UnitType>One Bed One Bath J_13Unit_3380</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>730</MinSquareFeet>
+        <MaxSquareFeet>730</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>One Bed One Bath J_1BR_1BA</FloorplanName>
+        <FloorplanID>1103398_13Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_14Unit">
+      <Units>
+        <UnitID>1103398_14Unit</UnitID>
+        <SyncUnitID>1103398_14Unit_3380</SyncUnitID>
+        <MarketingName>One Bed One Bath K</MarketingName>
+        <UnitType>One Bed One Bath K_14Unit_3380</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>732</MinSquareFeet>
+        <MaxSquareFeet>732</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>One Bed One Bath K_1BR_1BA</FloorplanName>
+        <FloorplanID>1103398_14Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_15Unit">
+      <Units>
+        <UnitID>1103398_15Unit</UnitID>
+        <SyncUnitID>1103398_15Unit_3380</SyncUnitID>
+        <MarketingName>One Bed One Bath L</MarketingName>
+        <UnitType>One Bed One Bath L_15Unit_3380</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>745</MinSquareFeet>
+        <MaxSquareFeet>745</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>One Bed One Bath L_1BR_1BA</FloorplanName>
+        <FloorplanID>1103398_15Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_16Unit">
+      <Units>
+        <UnitID>1103398_16Unit</UnitID>
+        <SyncUnitID>1103398_16Unit_3380</SyncUnitID>
+        <MarketingName>One Bed One Bath M</MarketingName>
+        <UnitType>One Bed One Bath M_16Unit_3380</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>788</MinSquareFeet>
+        <MaxSquareFeet>788</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>One Bed One Bath M_1BR_1BA</FloorplanName>
+        <FloorplanID>1103398_16Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_17Unit">
+      <Units>
+        <UnitID>1103398_17Unit</UnitID>
+        <SyncUnitID>1103398_17Unit_3380</SyncUnitID>
+        <MarketingName>One Bed One Bath N</MarketingName>
+        <UnitType>One Bed One Bath N_17Unit_3380</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>791</MinSquareFeet>
+        <MaxSquareFeet>791</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>One Bed One Bath N_1BR_1BA</FloorplanName>
+        <FloorplanID>1103398_17Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_18Unit">
+      <Units>
+        <UnitID>1103398_18Unit</UnitID>
+        <SyncUnitID>1103398_18Unit_3380</SyncUnitID>
+        <MarketingName>One Bed One Bath O</MarketingName>
+        <UnitType>One Bed One Bath O_18Unit_3380</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>812</MinSquareFeet>
+        <MaxSquareFeet>812</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2533</UnitRent>
+        <MarketRent>2533</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>One Bed One Bath O_1BR_1BA</FloorplanName>
+        <FloorplanID>1103398_18Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_19Unit">
+      <Units>
+        <UnitID>1103398_19Unit</UnitID>
+        <SyncUnitID>1103398_19Unit_3380</SyncUnitID>
+        <MarketingName>One Bed One Bath P</MarketingName>
+        <UnitType>One Bed One Bath P_19Unit_3380</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>863</MinSquareFeet>
+        <MaxSquareFeet>863</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>One Bed One Bath P_1BR_1BA</FloorplanName>
+        <FloorplanID>1103398_19Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_20Unit">
+      <Units>
+        <UnitID>1103398_20Unit</UnitID>
+        <SyncUnitID>1103398_20Unit_3380</SyncUnitID>
+        <MarketingName>One Bed One Bath Q</MarketingName>
+        <UnitType>One Bed One Bath Q_20Unit_3380</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>879</MinSquareFeet>
+        <MaxSquareFeet>879</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>One Bed One Bath Q_1BR_1BA</FloorplanName>
+        <FloorplanID>1103398_20Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_21Unit">
+      <Units>
+        <UnitID>1103398_21Unit</UnitID>
+        <SyncUnitID>1103398_21Unit_3380</SyncUnitID>
+        <MarketingName>One Bed One Bath R</MarketingName>
+        <UnitType>One Bed One Bath R_21Unit_3380</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>921</MinSquareFeet>
+        <MaxSquareFeet>921</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2778</UnitRent>
+        <MarketRent>2778</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>One Bed One Bath R_1BR_1BA</FloorplanName>
+        <FloorplanID>1103398_21Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_22Unit">
+      <Units>
+        <UnitID>1103398_22Unit</UnitID>
+        <SyncUnitID>1103398_22Unit_3380</SyncUnitID>
+        <MarketingName>One Bed One Bath S</MarketingName>
+        <UnitType>One Bed One Bath S_22Unit_3380</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>950</MinSquareFeet>
+        <MaxSquareFeet>950</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>One Bed One Bath S_1BR_1BA</FloorplanName>
+        <FloorplanID>1103398_22Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_23Unit">
+      <Units>
+        <UnitID>1103398_23Unit</UnitID>
+        <SyncUnitID>1103398_23Unit_3380</SyncUnitID>
+        <MarketingName>One Bed One Bath T</MarketingName>
+        <UnitType>One Bed One Bath T_23Unit_3380</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2599</UnitRent>
+        <MarketRent>2599</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>One Bed One Bath T_1BR_1BA</FloorplanName>
+        <FloorplanID>1103398_23Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_24Unit">
+      <Units>
+        <UnitID>1103398_24Unit</UnitID>
+        <SyncUnitID>1103398_24Unit_3380</SyncUnitID>
+        <MarketingName>Two Bed Two Bath A</MarketingName>
+        <UnitType>Two Bed Two Bath A_24Unit_3380</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet>979</MinSquareFeet>
+        <MaxSquareFeet>979</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>3136</UnitRent>
+        <MarketRent>3136</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Two Bed Two Bath A_2BR_2BA</FloorplanName>
+        <FloorplanID>1103398_24Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_25Unit">
+      <Units>
+        <UnitID>1103398_25Unit</UnitID>
+        <SyncUnitID>1103398_25Unit_3380</SyncUnitID>
+        <MarketingName>Two Bed Two Bath B</MarketingName>
+        <UnitType>Two Bed Two Bath B_25Unit_3380</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Two Bed Two Bath B_2BR_2BA</FloorplanName>
+        <FloorplanID>1103398_25Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_26Unit">
+      <Units>
+        <UnitID>1103398_26Unit</UnitID>
+        <SyncUnitID>1103398_26Unit_3380</SyncUnitID>
+        <MarketingName>Two Bed Two Bath C</MarketingName>
+        <UnitType>Two Bed Two Bath C_26Unit_3380</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>3053</UnitRent>
+        <MarketRent>3053</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Two Bed Two Bath C_2BR_2BA</FloorplanName>
+        <FloorplanID>1103398_26Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_27Unit">
+      <Units>
+        <UnitID>1103398_27Unit</UnitID>
+        <SyncUnitID>1103398_27Unit_3380</SyncUnitID>
+        <MarketingName>Two Bed Two Bath D</MarketingName>
+        <UnitType>Two Bed Two Bath D_27Unit_3380</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>3035</UnitRent>
+        <MarketRent>3035</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Two Bed Two Bath D_2BR_2BA</FloorplanName>
+        <FloorplanID>1103398_27Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_28Unit">
+      <Units>
+        <UnitID>1103398_28Unit</UnitID>
+        <SyncUnitID>1103398_28Unit_3380</SyncUnitID>
+        <MarketingName>Two Bed Two Bath E</MarketingName>
+        <UnitType>Two Bed Two Bath E_28Unit_3380</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Two Bed Two Bath E_2BR_2BA</FloorplanName>
+        <FloorplanID>1103398_28Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_29Unit">
+      <Units>
+        <UnitID>1103398_29Unit</UnitID>
+        <SyncUnitID>1103398_29Unit_3380</SyncUnitID>
+        <MarketingName>Two Bed Two Bath F</MarketingName>
+        <UnitType>Two Bed Two Bath F_29Unit_3380</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Two Bed Two Bath F_2BR_2BA</FloorplanName>
+        <FloorplanID>1103398_29Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_30Unit">
+      <Units>
+        <UnitID>1103398_30Unit</UnitID>
+        <SyncUnitID>1103398_30Unit_3380</SyncUnitID>
+        <MarketingName>Two Bed Two Bath G</MarketingName>
+        <UnitType>Two Bed Two Bath G_30Unit_3380</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Two Bed Two Bath G_2BR_2BA</FloorplanName>
+        <FloorplanID>1103398_30Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_31Unit">
+      <Units>
+        <UnitID>1103398_31Unit</UnitID>
+        <SyncUnitID>1103398_31Unit_3380</SyncUnitID>
+        <MarketingName>Two Bed Two Bath H</MarketingName>
+        <UnitType>Two Bed Two Bath H_31Unit_3380</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Two Bed Two Bath H_2BR_2BA</FloorplanName>
+        <FloorplanID>1103398_31Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_32Unit">
+      <Units>
+        <UnitID>1103398_32Unit</UnitID>
+        <SyncUnitID>1103398_32Unit_3380</SyncUnitID>
+        <MarketingName>Two Bed Two Bath I</MarketingName>
+        <UnitType>Two Bed Two Bath I_32Unit_3380</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>3013</UnitRent>
+        <MarketRent>3013</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Two Bed Two Bath I_2BR_2BA</FloorplanName>
+        <FloorplanID>1103398_32Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_33Unit">
+      <Units>
+        <UnitID>1103398_33Unit</UnitID>
+        <SyncUnitID>1103398_33Unit_3380</SyncUnitID>
+        <MarketingName>Two Bed Two Bath J</MarketingName>
+        <UnitType>Two Bed Two Bath J_33Unit_3380</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Two Bed Two Bath J_2BR_2BA</FloorplanName>
+        <FloorplanID>1103398_33Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_34Unit">
+      <Units>
+        <UnitID>1103398_34Unit</UnitID>
+        <SyncUnitID>1103398_34Unit_3380</SyncUnitID>
+        <MarketingName>Two Bed Two Bath K</MarketingName>
+        <UnitType>Two Bed Two Bath K_34Unit_3380</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2970</UnitRent>
+        <MarketRent>2970</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Two Bed Two Bath K_2BR_2BA</FloorplanName>
+        <FloorplanID>1103398_34Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_35Unit">
+      <Units>
+        <UnitID>1103398_35Unit</UnitID>
+        <SyncUnitID>1103398_35Unit_3380</SyncUnitID>
+        <MarketingName>Two Bed Two Bath L</MarketingName>
+        <UnitType>Two Bed Two Bath L_35Unit_3380</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Two Bed Two Bath L_2BR_2BA</FloorplanName>
+        <FloorplanID>1103398_35Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_36Unit">
+      <Units>
+        <UnitID>1103398_36Unit</UnitID>
+        <SyncUnitID>1103398_36Unit_3380</SyncUnitID>
+        <MarketingName>Two Bed Two Bath M</MarketingName>
+        <UnitType>Two Bed Two Bath M_36Unit_3380</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>3080</UnitRent>
+        <MarketRent>3080</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Two Bed Two Bath M_2BR_2BA</FloorplanName>
+        <FloorplanID>1103398_36Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_37Unit">
+      <Units>
+        <UnitID>1103398_37Unit</UnitID>
+        <SyncUnitID>1103398_37Unit_3380</SyncUnitID>
+        <MarketingName>Two Bed Two Bath N</MarketingName>
+        <UnitType>Two Bed Two Bath N_37Unit_3380</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Two Bed Two Bath N_2BR_2BA</FloorplanName>
+        <FloorplanID>1103398_37Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_38Unit">
+      <Units>
+        <UnitID>1103398_38Unit</UnitID>
+        <SyncUnitID>1103398_38Unit_3380</SyncUnitID>
+        <MarketingName>Two Bed Two Bath O</MarketingName>
+        <UnitType>Two Bed Two Bath O_38Unit_3380</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Two Bed Two Bath O_2BR_2BA</FloorplanName>
+        <FloorplanID>1103398_38Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_39Unit">
+      <Units>
+        <UnitID>1103398_39Unit</UnitID>
+        <SyncUnitID>1103398_39Unit_3380</SyncUnitID>
+        <MarketingName>Two Bed Two Bath P</MarketingName>
+        <UnitType>Two Bed Two Bath P_39Unit_3380</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>3133</UnitRent>
+        <MarketRent>3133</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Two Bed Two Bath P_2BR_2BA</FloorplanName>
+        <FloorplanID>1103398_39Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_40Unit">
+      <Units>
+        <UnitID>1103398_40Unit</UnitID>
+        <SyncUnitID>1103398_40Unit_3380</SyncUnitID>
+        <MarketingName>Two Bed Two Bath Q</MarketingName>
+        <UnitType>Two Bed Two Bath Q_40Unit_3380</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Two Bed Two Bath Q_2BR_2BA</FloorplanName>
+        <FloorplanID>1103398_40Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_41Unit">
+      <Units>
+        <UnitID>1103398_41Unit</UnitID>
+        <SyncUnitID>1103398_41Unit_3380</SyncUnitID>
+        <MarketingName>Two Bed Two Bath R</MarketingName>
+        <UnitType>Two Bed Two Bath R_41Unit_3380</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Two Bed Two Bath R_2BR_2BA</FloorplanName>
+        <FloorplanID>1103398_41Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_42Unit">
+      <Units>
+        <UnitID>1103398_42Unit</UnitID>
+        <SyncUnitID>1103398_42Unit_3380</SyncUnitID>
+        <MarketingName>Two Bed Two Bath S</MarketingName>
+        <UnitType>Two Bed Two Bath S_42Unit_3380</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Two Bed Two Bath S_2BR_2BA</FloorplanName>
+        <FloorplanID>1103398_42Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1103398_43Unit">
+      <Units>
+        <UnitID>1103398_43Unit</UnitID>
+        <SyncUnitID>1103398_43Unit_3380</SyncUnitID>
+        <MarketingName>Two Bed Two Bath T</MarketingName>
+        <UnitType>Two Bed Two Bath T_43Unit_3380</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Two Bed Two Bath T_2BR_2BA</FloorplanName>
+        <FloorplanID>1103398_43Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>8725 Ariva Court</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92123</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <File FileID="1103398_0Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1103398_0Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Dining and Living Room San Diego, California.jpg</Src>
+      <Rank>0</Rank>
+    </File>
+    <File FileID="1103398_1Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1103398_1Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Living Room and Kitchen San Diego, California.jpg</Src>
+      <Rank>1</Rank>
+    </File>
+    <File FileID="1103398_2Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1103398_2Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Master Bedroom San Diego, California.jpg</Src>
+      <Rank>2</Rank>
+    </File>
+    <File FileID="1103398_3Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1103398_3Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Guest Bathroom San Diego, California.jpg</Src>
+      <Rank>3</Rank>
+    </File>
+    <File FileID="1103398_4Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1103398_4Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Guest Bedroom San Diego, California.jpg</Src>
+      <Rank>4</Rank>
+    </File>
+    <File FileID="1103398_5Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1103398_5Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Apartments Model Living Room Dining Room and Kitchen.jpg</Src>
+      <Rank>5</Rank>
+    </File>
+    <File FileID="1103398_6Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1103398_6Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Apartments Model Master Bedroom and Window.jpg</Src>
+      <Rank>6</Rank>
+    </File>
+    <File FileID="1103398_7Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1103398_7Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Apartments Model Living Room and Kitchen Bartop.jpg</Src>
+      <Rank>7</Rank>
+    </File>
+    <File FileID="1103398_8Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1103398_8Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Apartments North Courtyard and Rec Tables.jpg</Src>
+      <Rank>8</Rank>
+    </File>
+    <File FileID="1103398_9Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1103398_9Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park North Courtyard Fountain and Patio San Diego, California.jpg</Src>
+      <Rank>9</Rank>
+    </File>
+    <File FileID="1103398_10Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1103398_10Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Fitness Center San Diego, California.jpg</Src>
+      <Rank>10</Rank>
+    </File>
+    <File FileID="1103398_11Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1103398_11Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Lobby and Front Desk San Diego, California.jpg</Src>
+      <Rank>11</Rank>
+    </File>
+    <File FileID="1103398_12Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1103398_12Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Pool Area and Lounge Chairs San Diego, California.jpg</Src>
+      <Rank>12</Rank>
+    </File>
+    <File FileID="1103398_13Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1103398_13Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Pool Area San Diego, California.jpg</Src>
+      <Rank>13</Rank>
+    </File>
+    <File FileID="1103398_14Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1103398_14Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Pool Area At Night San Diego, California.jpg</Src>
+      <Rank>14</Rank>
+    </File>
+    <File FileID="1103398_15Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name></Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1103398/Vive on the Park Rec Center San Diego, California.jpg</Src>
+      <Rank>15</Rank>
+    </File>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </Property>
+</PhysicalProperty>

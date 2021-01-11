@@ -1,0 +1,6229 @@
+<?xml version="" encoding=""?>
+<PhysicalProperty>
+  <Property IDValue="584383">
+    <PropertyID>
+      <SyncMgmtID>8741</SyncMgmtID>
+      <SyncPropertyID>584383_8741</SyncPropertyID>
+      <MarketingName>Altair</MarketingName>
+      <WebSite>www.altairescondido.com</WebSite>
+      <Email></Email>
+      <Phone PhoneType="">
+        <PhoneNumber>855-330-8771</PhoneNumber>
+      </Phone>
+      <Address AddressType="">
+        <AddressLine1>1361 W 9th Ave</AddressLine1>
+        <City>Escondido</City>
+        <State>CA</State>
+        <CountyName></CountyName>
+        <PostalCode>92029</PostalCode>
+      </Address>
+    </PropertyID>
+    <ILS_Identification ILS_IdentificationType="" RentalType="">
+      <Latitude>33.1099</Latitude>
+      <Longitude>-117.1024</Longitude>
+    </ILS_Identification>
+    <Information>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <UnitCount></UnitCount>
+      <LongDescription></LongDescription>
+      <DrivingDirections/>
+      <FacebookURL/>
+      <TwitterHandle/>
+      <PinterestURL/>
+    </Information>
+    <Fee>
+      <AdminFee/>
+      <ApplicationFee/>
+      <BrokerFee/>
+    </Fee>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <Amenity AmenityType="Garage">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="OnSiteMaintenance">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="OnSiteManagement">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Recycling">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="PackageReceiving">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity AmenityType="RooftopLounge">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="SmokeFree">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <Amenity AmenityType="CoverPark">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity AmenityType="DryCleaningService">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Elevator">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+
+
+
+
+    <Amenity AmenityType="FurnishedAvailable">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity AmenityType="Other">
+      <Description>10 Person Private Dinning Chef's Kitchen</Description>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="LargeClosets">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="Microwave">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity SpecificAmenityType="PrivateBalcony">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="QuartzCounterTops">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="TrashCompactor">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="WheelChair">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="IndividualClimateControl">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="Disposal">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="HighSpeed">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="DoubleVanities">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="DoubleSinkVanity">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="Furnished">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="Garage">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity SpecificAmenityType="Heat">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="Other">
+      <Description>Under Cabinet Lighting</Description>
+      <Rank/>
+    </Amenity>
+    <Deposit>
+      <Amount AmountType="">
+        <ValueRange/>
+      </Amount>
+      <Description/>
+      <PercentRefundable/>
+      <PortionRefundable/>
+    </Deposit>
+    <Policy>
+      <Pet Allowed="true">
+        <Pets Count="0" Description="" PetType="Dog" Weight="" size=""/>
+        <Comment/>
+        <Deposit>425</Deposit>
+        <Fee>90</Fee>
+        <Rent/>
+        <FeeRange Min="" Max=""/>
+        <Restrictions/>
+        <PetCare></PetCare>
+      </Pet>
+      <Pet AllowedCat="true">
+        <Pets Count="0" Description="" PetType="Cat" Weight="" size=""/>
+        <Comment/>
+        <Deposit>250</Deposit>
+        <Fee>30</Fee>
+        <Rent/>
+        <FeeRange Min="" Max=""/>
+        <Restrictions/>
+        <PetCare></PetCare>
+      </Pet>
+      <General/>
+    </Policy>
+    <Floorplan IDValue="584383_1Unit">
+      <SyncFloorplanID>584383_1Unit</SyncFloorplanID>
+      <Name>Plan A One Bedroom Renovated</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="664" Max="664"/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="584383_1Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/664 sq ft.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="584383_2Unit">
+      <SyncFloorplanID>584383_2Unit</SyncFloorplanID>
+      <Name>Plan B Two Bedrooms Renovated</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>5</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="865" Max="865"/>
+      <MarketRent Min="2100" Max="2100"/>
+      <EffectiveRent Min="2100" Max="2100"/>
+      <File FileID="584383_2Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/865 sq ft.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="584383_3Unit">
+      <SyncFloorplanID>584383_3Unit</SyncFloorplanID>
+      <Name>Plan C Two Bedrooms Renovated</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>5</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="871" Max="871"/>
+      <MarketRent Min="2145" Max="2145"/>
+      <EffectiveRent Min="2145" Max="2145"/>
+      <File FileID="584383_3Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/871 sq ft.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <ILS_Unit IDValue="584383_1Unit">
+      <Units>
+        <UnitID>584383_1Unit</UnitID>
+        <SyncUnitID>584383_1Unit_8741</SyncUnitID>
+        <MarketingName>Plan A One Bedroom Renovated</MarketingName>
+        <UnitType>Plan A One Bedroom Renovated_1Unit_8741</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>664</MinSquareFeet>
+        <MaxSquareFeet>664</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Plan A One Bedroom Renovated_1BR_1BA</FloorplanName>
+        <FloorplanID>584383_1Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>1361 W 9th Ave</AddressLine1>
+        <AddressLine2/>
+        <City>Escondido</City>
+        <State>CA</State>
+        <PostalCode>92029</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="584383_2Unit">
+      <Units>
+        <UnitID>584383_2Unit</UnitID>
+        <SyncUnitID>584383_2Unit_8741</SyncUnitID>
+        <MarketingName>Plan B Two Bedrooms Renovated</MarketingName>
+        <UnitType>Plan B Two Bedrooms Renovated_2Unit_8741</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet>865</MinSquareFeet>
+        <MaxSquareFeet>865</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2100</UnitRent>
+        <MarketRent>2100</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Plan B Two Bedrooms Renovated_2BR_2BA</FloorplanName>
+        <FloorplanID>584383_2Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>1361 W 9th Ave</AddressLine1>
+        <AddressLine2/>
+        <City>Escondido</City>
+        <State>CA</State>
+        <PostalCode>92029</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="584383_3Unit">
+      <Units>
+        <UnitID>584383_3Unit</UnitID>
+        <SyncUnitID>584383_3Unit_8741</SyncUnitID>
+        <MarketingName>Plan C Two Bedrooms Renovated</MarketingName>
+        <UnitType>Plan C Two Bedrooms Renovated_3Unit_8741</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet>871</MinSquareFeet>
+        <MaxSquareFeet>871</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2145</UnitRent>
+        <MarketRent>2145</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>Plan C Two Bedrooms Renovated_2BR_2BA</FloorplanName>
+        <FloorplanID>584383_3Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>1361 W 9th Ave</AddressLine1>
+        <AddressLine2/>
+        <City>Escondido</City>
+        <State>CA</State>
+        <PostalCode>92029</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <File FileID="584383_0Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_0Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/000_6805.jpg</Src>
+      <Rank>0</Rank>
+    </File>
+    <File FileID="584383_1Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_1Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/000_6815.jpg</Src>
+      <Rank>1</Rank>
+    </File>
+    <File FileID="584383_2Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_2Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/000_6770.jpg</Src>
+      <Rank>2</Rank>
+    </File>
+    <File FileID="584383_3Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_3Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/Image00003(3).jpg</Src>
+      <Rank>3</Rank>
+    </File>
+    <File FileID="584383_4Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_4Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/000_6785.jpg</Src>
+      <Rank>4</Rank>
+    </File>
+    <File FileID="584383_5Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_5Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/000_6720.jpg</Src>
+      <Rank>5</Rank>
+    </File>
+    <File FileID="584383_6Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_6Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/000_6755.jpg</Src>
+      <Rank>6</Rank>
+    </File>
+    <File FileID="584383_7Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_7Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/000_6740.jpg</Src>
+      <Rank>7</Rank>
+    </File>
+    <File FileID="584383_8Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_8Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/Image00001(4).jpg</Src>
+      <Rank>8</Rank>
+    </File>
+    <File FileID="584383_9Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_9Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/000_6680.jpg</Src>
+      <Rank>9</Rank>
+    </File>
+    <File FileID="584383_10Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_10Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/Image00002(3).jpg</Src>
+      <Rank>10</Rank>
+    </File>
+    <File FileID="584383_11Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_11Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/000_6650.jpg</Src>
+      <Rank>11</Rank>
+    </File>
+    <File FileID="584383_12Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_12Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/000_6675.jpg</Src>
+      <Rank>12</Rank>
+    </File>
+    <File FileID="584383_13Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_13Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/000_6595.jpg</Src>
+      <Rank>13</Rank>
+    </File>
+    <File FileID="584383_14Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_14Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/Image00019.jpg</Src>
+      <Rank>14</Rank>
+    </File>
+    <File FileID="584383_15Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name></Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/Image00020.jpg</Src>
+      <Rank>15</Rank>
+    </File>
+    <File FileID="584383_16Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_16Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/Image00021.jpg</Src>
+      <Rank>16</Rank>
+    </File>
+    <File FileID="584383_17Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_17Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/Image00022.jpg</Src>
+      <Rank>17</Rank>
+    </File>
+    <File FileID="584383_18Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_18Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/Image00023.jpg</Src>
+      <Rank>18</Rank>
+    </File>
+    <File FileID="584383_19Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_19Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/Image00024.jpg</Src>
+      <Rank>19</Rank>
+    </File>
+    <File FileID="584383_20Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_20Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/Image00025.jpg</Src>
+      <Rank>20</Rank>
+    </File>
+    <File FileID="584383_21Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_21Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/Image00026.jpg</Src>
+      <Rank>21</Rank>
+    </File>
+    <File FileID="584383_22Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_22Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/Image00001(1).jpg</Src>
+      <Rank>22</Rank>
+    </File>
+    <File FileID="584383_23Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_23Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/Image00002.jpg</Src>
+      <Rank>23</Rank>
+    </File>
+    <File FileID="584383_24Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_24Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/Image00005.jpg</Src>
+      <Rank>24</Rank>
+    </File>
+    <File FileID="584383_25Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_25Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/Image00006(2).jpg</Src>
+      <Rank>25</Rank>
+    </File>
+    <File FileID="584383_26Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_26Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/Image00007(1).jpg</Src>
+      <Rank>26</Rank>
+    </File>
+    <File FileID="584383_27Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_27Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/Image00011.jpg</Src>
+      <Rank>27</Rank>
+    </File>
+    <File FileID="584383_28Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_28Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/Image00012.jpg</Src>
+      <Rank>28</Rank>
+    </File>
+    <File FileID="584383_29Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_29Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/Image00013.jpg</Src>
+      <Rank>29</Rank>
+    </File>
+    <File FileID="584383_30Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_30Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/Image00014.jpg</Src>
+      <Rank>30</Rank>
+    </File>
+    <File FileID="584383_31Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_31Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/Image00015.jpg</Src>
+      <Rank>31</Rank>
+    </File>
+    <File FileID="584383_32Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>584383_32Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/584383/Image00017(1).jpg</Src>
+      <Rank>32</Rank>
+    </File>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </Property>
+</PhysicalProperty>

@@ -1,0 +1,6229 @@
+<?xml version="" encoding=""?>
+<PhysicalProperty>
+  <Property IDValue="1185309">
+    <PropertyID>
+      <SyncMgmtID>5837</SyncMgmtID>
+      <SyncPropertyID>1185309_5837</SyncPropertyID>
+      <MarketingName>4th + J</MarketingName>
+      <WebSite>www.4thandj.com</WebSite>
+      <Email></Email>
+      <Phone PhoneType="">
+        <PhoneNumber>833-852-1324</PhoneNumber>
+      </Phone>
+      <Address AddressType="">
+        <AddressLine1>372 4th Avenue</AddressLine1>
+        <City>San Diego</City>
+        <State>CA</State>
+        <CountyName></CountyName>
+        <PostalCode>92101</PostalCode>
+      </Address>
+    </PropertyID>
+    <ILS_Identification ILS_IdentificationType="" RentalType="">
+      <Latitude>32.7091</Latitude>
+      <Longitude>-117.1615</Longitude>
+    </ILS_Identification>
+    <Information>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <UnitCount></UnitCount>
+      <LongDescription></LongDescription>
+      <DrivingDirections/>
+      <FacebookURL/>
+      <TwitterHandle/>
+      <PinterestURL/>
+    </Information>
+    <Fee>
+      <AdminFee/>
+      <ApplicationFee/>
+      <BrokerFee/>
+    </Fee>
+    <Amenity AmenityType="Availability24Hours">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity AmenityType="Library">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Retail">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Garage">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="OnSiteMaintenance">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="OnSiteManagement">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity AmenityType="PackageReceiving">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="PetWashingStation">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+
+
+
+
+    <Amenity AmenityType="HighSpeed">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <Amenity AmenityType="CoverPark">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="WheelChair">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="DryCleaningService">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+
+
+
+
+    <Amenity AmenityType="Concierge">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="FurnishedAvailable">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity AmenityType="Other">
+      <Description>10 Person Private Dinning Chef's Kitchen</Description>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="Microwave">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="Pantry">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity SpecificAmenityType="QuartzCounterTops">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="Range">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="TileFlooring">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="TrashCompactor">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity SpecificAmenityType="Washer">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="WheelChair">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="Cable">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="DoubleVanities">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="Fireplace">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="FramedMirrors">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="Furnished">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <Deposit>
+      <Amount AmountType="">
+        <ValueRange/>
+      </Amount>
+      <Description/>
+      <PercentRefundable/>
+      <PortionRefundable/>
+    </Deposit>
+    <Policy>
+      <Pet Allowed="true">
+        <Pets Count="0" Description="" PetType="Dog" Weight="" size=""/>
+        <Comment/>
+        <Deposit>375</Deposit>
+        <Fee>55</Fee>
+        <Rent/>
+        <FeeRange Min="" Max=""/>
+        <Restrictions/>
+        <PetCare></PetCare>
+      </Pet>
+      <Pet AllowedCat="true">
+        <Pets Count="0" Description="" PetType="Cat" Weight="" size=""/>
+        <Comment/>
+        <Deposit>250</Deposit>
+        <Fee>75</Fee>
+        <Rent/>
+        <FeeRange Min="" Max=""/>
+        <Restrictions/>
+        <PetCare></PetCare>
+      </Pet>
+      <General/>
+    </Policy>
+    <Floorplan IDValue="1185309_1Unit">
+      <SyncFloorplanID>1185309_1Unit</SyncFloorplanID>
+      <Name>S1</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>7</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>0</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="2265" Max="2265"/>
+      <EffectiveRent Min="2265" Max="2265"/>
+      <File FileID="1185309_1Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J S1.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1185309_2Unit">
+      <SyncFloorplanID>1185309_2Unit</SyncFloorplanID>
+      <Name>S2</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>4</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>0</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="2285" Max="2285"/>
+      <EffectiveRent Min="2285" Max="2285"/>
+      <File FileID="1185309_2Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J S2.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1185309_3Unit">
+      <SyncFloorplanID>1185309_3Unit</SyncFloorplanID>
+      <Name>S3</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>7</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>0</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="2240" Max="2240"/>
+      <EffectiveRent Min="2240" Max="2240"/>
+      <File FileID="1185309_3Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J S3.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1185309_4Unit">
+      <SyncFloorplanID>1185309_4Unit</SyncFloorplanID>
+      <Name>S4</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>0</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="432" Max="432"/>
+      <MarketRent Min="2170" Max="2170"/>
+      <EffectiveRent Min="2170" Max="2170"/>
+      <File FileID="1185309_4Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J S4.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1185309_5Unit">
+      <SyncFloorplanID>1185309_5Unit</SyncFloorplanID>
+      <Name>S5</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>2</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>0</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="2315" Max="2315"/>
+      <EffectiveRent Min="2315" Max="2315"/>
+      <File FileID="1185309_5Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J S5.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1185309_6Unit">
+      <SyncFloorplanID>1185309_6Unit</SyncFloorplanID>
+      <Name>S7</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>0</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="723" Max="723"/>
+      <MarketRent Min="3000" Max="3000"/>
+      <EffectiveRent Min="3000" Max="3000"/>
+      <File FileID="1185309_6Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J S7 Combined.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1185309_7Unit">
+      <SyncFloorplanID>1185309_7Unit</SyncFloorplanID>
+      <Name>S8</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>0</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="880" Max="880"/>
+      <MarketRent Min="3205" Max="3205"/>
+      <EffectiveRent Min="3205" Max="3205"/>
+      <File FileID="1185309_7Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J S8 Combined.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1185309_8Unit">
+      <SyncFloorplanID>1185309_8Unit</SyncFloorplanID>
+      <Name>S11</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>3</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>0</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="3385" Max="3385"/>
+      <EffectiveRent Min="3385" Max="3385"/>
+      <File FileID="1185309_8Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J S11.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1185309_9Unit">
+      <SyncFloorplanID>1185309_9Unit</SyncFloorplanID>
+      <Name>A2</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="603" Max="603"/>
+      <MarketRent Min="2690" Max="2690"/>
+      <EffectiveRent Min="2690" Max="2690"/>
+      <File FileID="1185309_9Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J A2 A9.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1185309_10Unit">
+      <SyncFloorplanID>1185309_10Unit</SyncFloorplanID>
+      <Name>A3</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>4</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="612" Max="612"/>
+      <MarketRent Min="2645" Max="2645"/>
+      <EffectiveRent Min="2645" Max="2645"/>
+      <File FileID="1185309_10Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J A3 A4 A8.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1185309_11Unit">
+      <SyncFloorplanID>1185309_11Unit</SyncFloorplanID>
+      <Name>A4</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>4</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="2605" Max="2605"/>
+      <EffectiveRent Min="2605" Max="2605"/>
+      <File FileID="1185309_11Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J A3 A4 A8(1).jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1185309_12Unit">
+      <SyncFloorplanID>1185309_12Unit</SyncFloorplanID>
+      <Name>A5</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="665" Max="665"/>
+      <MarketRent Min="2515" Max="2515"/>
+      <EffectiveRent Min="2515" Max="2515"/>
+      <File FileID="1185309_12Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J A5.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1185309_13Unit">
+      <SyncFloorplanID>1185309_13Unit</SyncFloorplanID>
+      <Name>A7</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>2</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="678" Max="678"/>
+      <MarketRent Min="2580" Max="2580"/>
+      <EffectiveRent Min="2580" Max="2580"/>
+      <File FileID="1185309_13Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J A7.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1185309_14Unit">
+      <SyncFloorplanID>1185309_14Unit</SyncFloorplanID>
+      <Name>A8</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="688" Max="688"/>
+      <MarketRent Min="2765" Max="2765"/>
+      <EffectiveRent Min="2765" Max="2765"/>
+      <File FileID="1185309_14Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J A3 A4 A8(2).jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1185309_15Unit">
+      <SyncFloorplanID>1185309_15Unit</SyncFloorplanID>
+      <Name>A9</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>6</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="2680" Max="2680"/>
+      <EffectiveRent Min="2680" Max="2680"/>
+      <File FileID="1185309_15Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J A2 A9(1).jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1185309_16Unit">
+      <SyncFloorplanID>1185309_16Unit</SyncFloorplanID>
+      <Name>A10</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>2</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="721" Max="721"/>
+      <MarketRent Min="2550" Max="2550"/>
+      <EffectiveRent Min="2550" Max="2550"/>
+      <File FileID="1185309_16Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J A10.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1185309_17Unit">
+      <SyncFloorplanID>1185309_17Unit</SyncFloorplanID>
+      <Name>B1</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>2</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="3445" Max="3445"/>
+      <EffectiveRent Min="3445" Max="3445"/>
+      <File FileID="1185309_17Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J B1.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1185309_18Unit">
+      <SyncFloorplanID>1185309_18Unit</SyncFloorplanID>
+      <Name>B2</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>4</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="3980" Max="3980"/>
+      <EffectiveRent Min="3980" Max="3980"/>
+      <File FileID="1185309_18Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J B2.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="1185309_19Unit">
+      <SyncFloorplanID>1185309_19Unit</SyncFloorplanID>
+      <Name>B3</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="5000" Max="5000"/>
+      <EffectiveRent Min="5000" Max="5000"/>
+      <File FileID="1185309_19Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J B3.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <ILS_Unit IDValue="1185309_1Unit">
+      <Units>
+        <UnitID>1185309_1Unit</UnitID>
+        <SyncUnitID>1185309_1Unit_5837</SyncUnitID>
+        <MarketingName>S1</MarketingName>
+        <UnitType>S1_1Unit_5837</UnitType>
+        <UnitBedrooms>0</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2265</UnitRent>
+        <MarketRent>2265</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>S1_0BR_1BA</FloorplanName>
+        <FloorplanID>1185309_1Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>372 4th Avenue</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92101</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1185309_2Unit">
+      <Units>
+        <UnitID>1185309_2Unit</UnitID>
+        <SyncUnitID>1185309_2Unit_5837</SyncUnitID>
+        <MarketingName>S2</MarketingName>
+        <UnitType>S2_2Unit_5837</UnitType>
+        <UnitBedrooms>0</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2285</UnitRent>
+        <MarketRent>2285</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>S2_0BR_1BA</FloorplanName>
+        <FloorplanID>1185309_2Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>372 4th Avenue</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92101</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1185309_3Unit">
+      <Units>
+        <UnitID>1185309_3Unit</UnitID>
+        <SyncUnitID>1185309_3Unit_5837</SyncUnitID>
+        <MarketingName>S3</MarketingName>
+        <UnitType>S3_3Unit_5837</UnitType>
+        <UnitBedrooms>0</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2240</UnitRent>
+        <MarketRent>2240</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>S3_0BR_1BA</FloorplanName>
+        <FloorplanID>1185309_3Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>372 4th Avenue</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92101</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1185309_4Unit">
+      <Units>
+        <UnitID>1185309_4Unit</UnitID>
+        <SyncUnitID>1185309_4Unit_5837</SyncUnitID>
+        <MarketingName>S4</MarketingName>
+        <UnitType>S4_4Unit_5837</UnitType>
+        <UnitBedrooms>0</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>432</MinSquareFeet>
+        <MaxSquareFeet>432</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2170</UnitRent>
+        <MarketRent>2170</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>S4_0BR_1BA</FloorplanName>
+        <FloorplanID>1185309_4Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>372 4th Avenue</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92101</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1185309_5Unit">
+      <Units>
+        <UnitID>1185309_5Unit</UnitID>
+        <SyncUnitID>1185309_5Unit_5837</SyncUnitID>
+        <MarketingName>S5</MarketingName>
+        <UnitType>S5_5Unit_5837</UnitType>
+        <UnitBedrooms>0</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2315</UnitRent>
+        <MarketRent>2315</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>S5_0BR_1BA</FloorplanName>
+        <FloorplanID>1185309_5Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>372 4th Avenue</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92101</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1185309_6Unit">
+      <Units>
+        <UnitID>1185309_6Unit</UnitID>
+        <SyncUnitID>1185309_6Unit_5837</SyncUnitID>
+        <MarketingName>S7</MarketingName>
+        <UnitType>S7_6Unit_5837</UnitType>
+        <UnitBedrooms>0</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>723</MinSquareFeet>
+        <MaxSquareFeet>723</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>3000</UnitRent>
+        <MarketRent>3000</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>S7_0BR_1BA</FloorplanName>
+        <FloorplanID>1185309_6Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>372 4th Avenue</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92101</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1185309_7Unit">
+      <Units>
+        <UnitID>1185309_7Unit</UnitID>
+        <SyncUnitID>1185309_7Unit_5837</SyncUnitID>
+        <MarketingName>S8</MarketingName>
+        <UnitType>S8_7Unit_5837</UnitType>
+        <UnitBedrooms>0</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>880</MinSquareFeet>
+        <MaxSquareFeet>880</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>3205</UnitRent>
+        <MarketRent>3205</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>S8_0BR_1BA</FloorplanName>
+        <FloorplanID>1185309_7Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>372 4th Avenue</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92101</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1185309_8Unit">
+      <Units>
+        <UnitID>1185309_8Unit</UnitID>
+        <SyncUnitID>1185309_8Unit_5837</SyncUnitID>
+        <MarketingName>S11</MarketingName>
+        <UnitType>S11_8Unit_5837</UnitType>
+        <UnitBedrooms>0</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>3385</UnitRent>
+        <MarketRent>3385</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>S11_0BR_1BA</FloorplanName>
+        <FloorplanID>1185309_8Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>372 4th Avenue</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92101</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1185309_9Unit">
+      <Units>
+        <UnitID>1185309_9Unit</UnitID>
+        <SyncUnitID>1185309_9Unit_5837</SyncUnitID>
+        <MarketingName>A2</MarketingName>
+        <UnitType>A2_9Unit_5837</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>603</MinSquareFeet>
+        <MaxSquareFeet>603</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2690</UnitRent>
+        <MarketRent>2690</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>A2_1BR_1BA</FloorplanName>
+        <FloorplanID>1185309_9Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>372 4th Avenue</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92101</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1185309_10Unit">
+      <Units>
+        <UnitID>1185309_10Unit</UnitID>
+        <SyncUnitID>1185309_10Unit_5837</SyncUnitID>
+        <MarketingName>A3</MarketingName>
+        <UnitType>A3_10Unit_5837</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>612</MinSquareFeet>
+        <MaxSquareFeet>612</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2645</UnitRent>
+        <MarketRent>2645</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>A3_1BR_1BA</FloorplanName>
+        <FloorplanID>1185309_10Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>372 4th Avenue</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92101</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1185309_11Unit">
+      <Units>
+        <UnitID>1185309_11Unit</UnitID>
+        <SyncUnitID>1185309_11Unit_5837</SyncUnitID>
+        <MarketingName>A4</MarketingName>
+        <UnitType>A4_11Unit_5837</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2605</UnitRent>
+        <MarketRent>2605</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>A4_1BR_1BA</FloorplanName>
+        <FloorplanID>1185309_11Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>372 4th Avenue</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92101</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1185309_12Unit">
+      <Units>
+        <UnitID>1185309_12Unit</UnitID>
+        <SyncUnitID>1185309_12Unit_5837</SyncUnitID>
+        <MarketingName>A5</MarketingName>
+        <UnitType>A5_12Unit_5837</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>665</MinSquareFeet>
+        <MaxSquareFeet>665</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2515</UnitRent>
+        <MarketRent>2515</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>A5_1BR_1BA</FloorplanName>
+        <FloorplanID>1185309_12Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>372 4th Avenue</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92101</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1185309_13Unit">
+      <Units>
+        <UnitID>1185309_13Unit</UnitID>
+        <SyncUnitID>1185309_13Unit_5837</SyncUnitID>
+        <MarketingName>A7</MarketingName>
+        <UnitType>A7_13Unit_5837</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>678</MinSquareFeet>
+        <MaxSquareFeet>678</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2580</UnitRent>
+        <MarketRent>2580</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>A7_1BR_1BA</FloorplanName>
+        <FloorplanID>1185309_13Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>372 4th Avenue</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92101</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1185309_14Unit">
+      <Units>
+        <UnitID>1185309_14Unit</UnitID>
+        <SyncUnitID>1185309_14Unit_5837</SyncUnitID>
+        <MarketingName>A8</MarketingName>
+        <UnitType>A8_14Unit_5837</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>688</MinSquareFeet>
+        <MaxSquareFeet>688</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2765</UnitRent>
+        <MarketRent>2765</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>A8_1BR_1BA</FloorplanName>
+        <FloorplanID>1185309_14Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>372 4th Avenue</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92101</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1185309_15Unit">
+      <Units>
+        <UnitID>1185309_15Unit</UnitID>
+        <SyncUnitID>1185309_15Unit_5837</SyncUnitID>
+        <MarketingName>A9</MarketingName>
+        <UnitType>A9_15Unit_5837</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2680</UnitRent>
+        <MarketRent>2680</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>A9_1BR_1BA</FloorplanName>
+        <FloorplanID>1185309_15Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>372 4th Avenue</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92101</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1185309_16Unit">
+      <Units>
+        <UnitID>1185309_16Unit</UnitID>
+        <SyncUnitID>1185309_16Unit_5837</SyncUnitID>
+        <MarketingName>A10</MarketingName>
+        <UnitType>A10_16Unit_5837</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>721</MinSquareFeet>
+        <MaxSquareFeet>721</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2550</UnitRent>
+        <MarketRent>2550</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>A10_1BR_1BA</FloorplanName>
+        <FloorplanID>1185309_16Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>372 4th Avenue</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92101</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1185309_17Unit">
+      <Units>
+        <UnitID>1185309_17Unit</UnitID>
+        <SyncUnitID>1185309_17Unit_5837</SyncUnitID>
+        <MarketingName>B1</MarketingName>
+        <UnitType>B1_17Unit_5837</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>3445</UnitRent>
+        <MarketRent>3445</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>B1_2BR_2BA</FloorplanName>
+        <FloorplanID>1185309_17Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>372 4th Avenue</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92101</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1185309_18Unit">
+      <Units>
+        <UnitID>1185309_18Unit</UnitID>
+        <SyncUnitID>1185309_18Unit_5837</SyncUnitID>
+        <MarketingName>B2</MarketingName>
+        <UnitType>B2_18Unit_5837</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>3980</UnitRent>
+        <MarketRent>3980</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>B2_2BR_2BA</FloorplanName>
+        <FloorplanID>1185309_18Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>372 4th Avenue</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92101</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="1185309_19Unit">
+      <Units>
+        <UnitID>1185309_19Unit</UnitID>
+        <SyncUnitID>1185309_19Unit_5837</SyncUnitID>
+        <MarketingName>B3</MarketingName>
+        <UnitType>B3_19Unit_5837</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>5000</UnitRent>
+        <MarketRent>5000</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>B3_2BR_2BA</FloorplanName>
+        <FloorplanID>1185309_19Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>372 4th Avenue</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92101</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <File FileID="1185309_0Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_0Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/2/4268/4th and J Aerial 3.jpg</Src>
+      <Rank>0</Rank>
+    </File>
+    <File FileID="1185309_1Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_1Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/2/4268/4th and J Aerial 1.jpg</Src>
+      <Rank>1</Rank>
+    </File>
+    <File FileID="1185309_2Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_2Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/2/4268/4th and J Aerial 4.jpg</Src>
+      <Rank>2</Rank>
+    </File>
+    <File FileID="1185309_3Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_3Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/2/4268/4th and J Aerial 2.jpg</Src>
+      <Rank>3</Rank>
+    </File>
+    <File FileID="1185309_4Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_4Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/2/4268/4th and J Building Exterior 1.jpg</Src>
+      <Rank>4</Rank>
+    </File>
+    <File FileID="1185309_5Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_5Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/2/4268/4th and J Street.jpg</Src>
+      <Rank>5</Rank>
+    </File>
+    <File FileID="1185309_6Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_6Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/2/4268/4th and J Skydeck Aerial 1.jpg</Src>
+      <Rank>6</Rank>
+    </File>
+    <File FileID="1185309_7Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_7Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/2/4268/4th and J Skydeck Aerial 2.jpg</Src>
+      <Rank>7</Rank>
+    </File>
+    <File FileID="1185309_8Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_8Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/2/4268/4th and J Skydeck Dusk.jpg</Src>
+      <Rank>8</Rank>
+    </File>
+    <File FileID="1185309_9Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_9Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J Leasing Office.jpg</Src>
+      <Rank>9</Rank>
+    </File>
+    <File FileID="1185309_10Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_10Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J Leasing Office 2.jpg</Src>
+      <Rank>10</Rank>
+    </File>
+    <File FileID="1185309_11Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_11Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J Leasing Office 3.jpg</Src>
+      <Rank>11</Rank>
+    </File>
+    <File FileID="1185309_12Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_12Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J Fit 1.jpg</Src>
+      <Rank>12</Rank>
+    </File>
+    <File FileID="1185309_13Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_13Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J Fit.jpg</Src>
+      <Rank>13</Rank>
+    </File>
+    <File FileID="1185309_14Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_14Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/2/4268/4th and J Fit 3.jpg</Src>
+      <Rank>14</Rank>
+    </File>
+    <File FileID="1185309_15Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name></Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J The Den 1.jpg</Src>
+      <Rank>15</Rank>
+    </File>
+    <File FileID="1185309_16Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_16Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J The Den.jpg</Src>
+      <Rank>16</Rank>
+    </File>
+    <File FileID="1185309_17Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_17Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J The Den 2.jpg</Src>
+      <Rank>17</Rank>
+    </File>
+    <File FileID="1185309_18Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_18Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J Conference Room.jpg</Src>
+      <Rank>18</Rank>
+    </File>
+    <File FileID="1185309_19Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_19Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/2/4268/4th and J Conference Room 2.jpg</Src>
+      <Rank>19</Rank>
+    </File>
+    <File FileID="1185309_20Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_20Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J Pool.jpg</Src>
+      <Rank>20</Rank>
+    </File>
+    <File FileID="1185309_21Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_21Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/2/4268/4th and J Pet Park 2.jpg</Src>
+      <Rank>21</Rank>
+    </File>
+    <File FileID="1185309_22Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_22Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/2/4268/4th and J Pet Park 1.jpg</Src>
+      <Rank>22</Rank>
+    </File>
+    <File FileID="1185309_23Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_23Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J Social Deck.jpg</Src>
+      <Rank>23</Rank>
+    </File>
+    <File FileID="1185309_24Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_24Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/2/4268/4th and J Social Deck 4.jpg</Src>
+      <Rank>24</Rank>
+    </File>
+    <File FileID="1185309_25Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_25Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/2/4268/4th and J Social Deck 3.jpg</Src>
+      <Rank>25</Rank>
+    </File>
+    <File FileID="1185309_26Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_26Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J Social Deck 1.jpg</Src>
+      <Rank>26</Rank>
+    </File>
+    <File FileID="1185309_27Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_27Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J Camp 1.jpg</Src>
+      <Rank>27</Rank>
+    </File>
+    <File FileID="1185309_28Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_28Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J Camp 2.jpg</Src>
+      <Rank>28</Rank>
+    </File>
+    <File FileID="1185309_29Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_29Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J Camp 3.jpg</Src>
+      <Rank>29</Rank>
+    </File>
+    <File FileID="1185309_30Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_30Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J Camp.jpg</Src>
+      <Rank>30</Rank>
+    </File>
+    <File FileID="1185309_31Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_31Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J Studio Model Bedroom-Kitchen.jpg</Src>
+      <Rank>31</Rank>
+    </File>
+    <File FileID="1185309_32Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_32Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J Studio Model From Living Room.jpg</Src>
+      <Rank>32</Rank>
+    </File>
+    <File FileID="1185309_33Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_33Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J Studio Model Kitchen-Bedroom.jpg</Src>
+      <Rank>33</Rank>
+    </File>
+    <File FileID="1185309_34Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_34Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J Studio Model Living Room.jpg</Src>
+      <Rank>34</Rank>
+    </File>
+    <File FileID="1185309_35Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_35Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J Studio Model Bathroom.jpg</Src>
+      <Rank>35</Rank>
+    </File>
+    <File FileID="1185309_36Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_36Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J One Bedroom Model Kitchen.jpg</Src>
+      <Rank>36</Rank>
+    </File>
+    <File FileID="1185309_37Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_37Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J One Bedroom Model Living Room.jpg</Src>
+      <Rank>37</Rank>
+    </File>
+    <File FileID="1185309_38Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_38Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J One Bedroom Model Kitchen-Living Room.jpg</Src>
+      <Rank>38</Rank>
+    </File>
+    <File FileID="1185309_39Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_39Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J One Bedroom Model From Living Room.jpg</Src>
+      <Rank>39</Rank>
+    </File>
+    <File FileID="1185309_40Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_40Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J One Bedroom Model Bedroom.jpg</Src>
+      <Rank>40</Rank>
+    </File>
+    <File FileID="1185309_41Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>1185309_41Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/1185309/4th and J One Bedroom Model Bathroom.jpg</Src>
+      <Rank>41</Rank>
+    </File>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </Property>
+</PhysicalProperty>

@@ -1,0 +1,6229 @@
+<?xml version="" encoding=""?>
+<PhysicalProperty>
+  <Property IDValue="77288">
+    <PropertyID>
+      <SyncMgmtID>1035</SyncMgmtID>
+      <SyncPropertyID>77288_1035</SyncPropertyID>
+      <MarketingName>Legacy Apartment Homes</MarketingName>
+      <WebSite>www.legacyapartmentsmiramesa.com</WebSite>
+      <Email></Email>
+      <Phone PhoneType="">
+        <PhoneNumber>855-331-5268</PhoneNumber>
+      </Phone>
+      <Address AddressType="">
+        <AddressLine1>9320 Hillery Drive</AddressLine1>
+        <City>San Diego</City>
+        <State>CA</State>
+        <CountyName></CountyName>
+        <PostalCode>92126</PostalCode>
+      </Address>
+    </PropertyID>
+    <ILS_Identification ILS_IdentificationType="" RentalType="">
+      <Latitude>32.9137</Latitude>
+      <Longitude>-117.1191</Longitude>
+    </ILS_Identification>
+    <Information>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime></OpenTime>
+        <CloseTime></CloseTime>
+        <Day></Day>
+      </OfficeHour>
+      <UnitCount></UnitCount>
+      <LongDescription></LongDescription>
+      <DrivingDirections/>
+      <FacebookURL/>
+      <TwitterHandle/>
+      <PinterestURL/>
+    </Information>
+    <Fee>
+      <AdminFee/>
+      <ApplicationFee/>
+      <BrokerFee/>
+    </Fee>
+    <Amenity AmenityType="Availability24Hours">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity AmenityType="Library">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Retail">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Garage">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity AmenityType="OnSiteManagement">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Recycling">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="PackageReceiving">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity AmenityType="SmokeFree">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity AmenityType="HighSpeed">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Gate">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="BusinessCenter">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="CarChargingStation">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="CoffeeBar">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity AmenityType="WheelChair">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="DryCleaningService">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Elevator">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="EnergyStarCertified">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="FitnessCenter">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Concierge">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="FurnishedAvailable">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Garden">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity AmenityType="Other">
+      <Description>10 Person Private Dinning Chef's Kitchen</Description>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity SpecificAmenityType="IslandKitchen">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="LargeClosets">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="PrivateBalcony">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="Refrigerator">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="StainlessSteel">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="TileFlooring">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="TrashCompactor">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity SpecificAmenityType="Washer">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="WheelChair">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity SpecificAmenityType="Disposal">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="HighSpeed">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="Cable">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="ControlledAccess">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="DoubleSinkVanity">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+    <Amenity SpecificAmenityType="Fireplace">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="FramedMirrors">
+      <Description/>
+      <Rank/>
+    </Amenity>
+    <Amenity SpecificAmenityType="Furnished">
+      <Description/>
+      <Rank/>
+    </Amenity>
+
+
+
+
+
+
+
+
+
+
+
+
+    <Amenity SpecificAmenityType="Other">
+      <Description>Under Cabinet Lighting</Description>
+      <Rank/>
+    </Amenity>
+    <Deposit>
+      <Amount AmountType="">
+        <ValueRange/>
+      </Amount>
+      <Description/>
+      <PercentRefundable/>
+      <PortionRefundable/>
+    </Deposit>
+    <Policy>
+      <Pet Allowed="true">
+        <Pets Count="0" Description="" PetType="Dog" Weight="" size=""/>
+        <Comment/>
+        <Deposit>100</Deposit>
+        <Fee>60</Fee>
+        <Rent/>
+        <FeeRange Min="" Max=""/>
+        <Restrictions/>
+        <PetCare></PetCare>
+      </Pet>
+      <Pet AllowedCat="true">
+        <Pets Count="0" Description="" PetType="Cat" Weight="" size=""/>
+        <Comment/>
+        <Deposit>175</Deposit>
+        <Fee>40</Fee>
+        <Rent/>
+        <FeeRange Min="" Max=""/>
+        <Restrictions/>
+        <PetCare></PetCare>
+      </Pet>
+      <General/>
+    </Policy>
+    <Floorplan IDValue="77288_1Unit">
+      <SyncFloorplanID>77288_1Unit</SyncFloorplanID>
+      <Name>A Vintage 629 SF</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="629" Max="629"/>
+      <MarketRent Min="2075" Max="2075"/>
+      <EffectiveRent Min="2075" Max="2075"/>
+      <File FileID="77288_1Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/3_77288_2441924.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="77288_2Unit">
+      <SyncFloorplanID>77288_2Unit</SyncFloorplanID>
+      <Name>B Royale 688 SF</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>3</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="688" Max="688"/>
+      <MarketRent Min="2155" Max="2155"/>
+      <EffectiveRent Min="2155" Max="2155"/>
+      <File FileID="77288_2Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/3_77288_2441925.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="77288_3Unit">
+      <SyncFloorplanID>77288_3Unit</SyncFloorplanID>
+      <Name>C Regents 801 to 821 SF</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>5</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="2335" Max="2335"/>
+      <EffectiveRent Min="2335" Max="2335"/>
+      <File FileID="77288_3Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/3_77288_2441927.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="77288_4Unit">
+      <SyncFloorplanID>77288_4Unit</SyncFloorplanID>
+      <Name>D Heritage 817 to 859 SF</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>1</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="817" Max="817"/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="77288_4Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/3_77288_2441928.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="77288_5Unit">
+      <SyncFloorplanID>77288_5Unit</SyncFloorplanID>
+      <Name>E Pacifica 974 to 987 SF</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>3</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="2390" Max="2390"/>
+      <EffectiveRent Min="2390" Max="2390"/>
+      <File FileID="77288_5Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/3_77288_2441929.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="77288_6Unit">
+      <SyncFloorplanID>77288_6Unit</SyncFloorplanID>
+      <Name>F Americana 1045 to 1102 SF</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>7</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="2515" Max="2515"/>
+      <EffectiveRent Min="2515" Max="2515"/>
+      <File FileID="77288_6Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/3_77288_2441930.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="77288_7Unit">
+      <SyncFloorplanID>77288_7Unit</SyncFloorplanID>
+      <Name>G Presidio 1145 to 1189 SF</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>2</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="2635" Max="2635"/>
+      <EffectiveRent Min="2635" Max="2635"/>
+      <File FileID="77288_7Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/3_77288_2441964.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+    <Floorplan IDValue="77288_8Unit">
+      <SyncFloorplanID>77288_8Unit</SyncFloorplanID>
+      <Name>H Montclaire 1321 to 1389 SF</Name>
+      <UnitCount>1</UnitCount>
+      <FloorplanAvailabilityURL></FloorplanAvailabilityURL>
+      <DisplayedUnitsAvailable>1</DisplayedUnitsAvailable>
+      <Room RoomType="Bedroom">
+        <Count>3</Count>
+        <Comment></Comment>
+      </Room>
+      <Room RoomType="Bathroom">
+        <Count>2</Count>
+        <Comment></Comment>
+      </Room>
+      <SquareFeet Min="" Max=""/>
+      <MarketRent Min="Call for Details " Max="Call for Details "/>
+      <EffectiveRent Min="Call for Details " Max="Call for Details "/>
+      <File FileID="77288_8Unit" Active="">
+        <FileType></FileType>
+        <Name/>
+        <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/3_77288_2441965.jpg</Src>
+        <Rank></Rank>
+      </File>
+    </Floorplan>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <ILS_Unit IDValue="77288_1Unit">
+      <Units>
+        <UnitID>77288_1Unit</UnitID>
+        <SyncUnitID>77288_1Unit_1035</SyncUnitID>
+        <MarketingName>A Vintage 629 SF</MarketingName>
+        <UnitType>A Vintage 629 SF_1Unit_1035</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>629</MinSquareFeet>
+        <MaxSquareFeet>629</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2075</UnitRent>
+        <MarketRent>2075</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>A Vintage 629 SF_1BR_1BA</FloorplanName>
+        <FloorplanID>77288_1Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>9320 Hillery Drive</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92126</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="77288_2Unit">
+      <Units>
+        <UnitID>77288_2Unit</UnitID>
+        <SyncUnitID>77288_2Unit_1035</SyncUnitID>
+        <MarketingName>B Royale 688 SF</MarketingName>
+        <UnitType>B Royale 688 SF_2Unit_1035</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>688</MinSquareFeet>
+        <MaxSquareFeet>688</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2155</UnitRent>
+        <MarketRent>2155</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>B Royale 688 SF_1BR_1BA</FloorplanName>
+        <FloorplanID>77288_2Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>9320 Hillery Drive</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92126</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="77288_3Unit">
+      <Units>
+        <UnitID>77288_3Unit</UnitID>
+        <SyncUnitID>77288_3Unit_1035</SyncUnitID>
+        <MarketingName>C Regents 801 to 821 SF</MarketingName>
+        <UnitType>C Regents 801 to 821 SF_3Unit_1035</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2335</UnitRent>
+        <MarketRent>2335</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>C Regents 801 to 821 SF_1BR_1BA</FloorplanName>
+        <FloorplanID>77288_3Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>9320 Hillery Drive</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92126</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="77288_4Unit">
+      <Units>
+        <UnitID>77288_4Unit</UnitID>
+        <SyncUnitID>77288_4Unit_1035</SyncUnitID>
+        <MarketingName>D Heritage 817 to 859 SF</MarketingName>
+        <UnitType>D Heritage 817 to 859 SF_4Unit_1035</UnitType>
+        <UnitBedrooms>1</UnitBedrooms>
+        <UnitBathrooms>1</UnitBathrooms>
+        <MinSquareFeet>817</MinSquareFeet>
+        <MaxSquareFeet>817</MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>D Heritage 817 to 859 SF_1BR_1BA</FloorplanName>
+        <FloorplanID>77288_4Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>9320 Hillery Drive</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92126</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="77288_5Unit">
+      <Units>
+        <UnitID>77288_5Unit</UnitID>
+        <SyncUnitID>77288_5Unit_1035</SyncUnitID>
+        <MarketingName>E Pacifica 974 to 987 SF</MarketingName>
+        <UnitType>E Pacifica 974 to 987 SF_5Unit_1035</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2390</UnitRent>
+        <MarketRent>2390</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>E Pacifica 974 to 987 SF_2BR_2BA</FloorplanName>
+        <FloorplanID>77288_5Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>9320 Hillery Drive</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92126</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="77288_6Unit">
+      <Units>
+        <UnitID>77288_6Unit</UnitID>
+        <SyncUnitID>77288_6Unit_1035</SyncUnitID>
+        <MarketingName>F Americana 1045 to 1102 SF</MarketingName>
+        <UnitType>F Americana 1045 to 1102 SF_6Unit_1035</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2515</UnitRent>
+        <MarketRent>2515</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>F Americana 1045 to 1102 SF_2BR_2BA</FloorplanName>
+        <FloorplanID>77288_6Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>9320 Hillery Drive</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92126</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="77288_7Unit">
+      <Units>
+        <UnitID>77288_7Unit</UnitID>
+        <SyncUnitID>77288_7Unit_1035</SyncUnitID>
+        <MarketingName>G Presidio 1145 to 1189 SF</MarketingName>
+        <UnitType>G Presidio 1145 to 1189 SF_7Unit_1035</UnitType>
+        <UnitBedrooms>2</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>2635</UnitRent>
+        <MarketRent>2635</MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>G Presidio 1145 to 1189 SF_2BR_2BA</FloorplanName>
+        <FloorplanID>77288_7Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>9320 Hillery Drive</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92126</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="12" Day="21" Year="2020"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+    <ILS_Unit IDValue="77288_8Unit">
+      <Units>
+        <UnitID>77288_8Unit</UnitID>
+        <SyncUnitID>77288_8Unit_1035</SyncUnitID>
+        <MarketingName>H Montclaire 1321 to 1389 SF</MarketingName>
+        <UnitType>H Montclaire 1321 to 1389 SF_8Unit_1035</UnitType>
+        <UnitBedrooms>3</UnitBedrooms>
+        <UnitBathrooms>2</UnitBathrooms>
+        <MinSquareFeet></MinSquareFeet>
+        <MaxSquareFeet></MaxSquareFeet>
+        <SquareFootType>Internal</SquareFootType>
+        <UnitRent>Call for Details </UnitRent>
+        <MarketRent>Call for Details </MarketRent>
+        <UnitEconomicStatus>residential</UnitEconomicStatus>
+        <UnitEconomicStatusDescription>residential</UnitEconomicStatusDescription>
+        <NumberOccupants/>
+        <FloorplanName>H Montclaire 1321 to 1389 SF_3BR_2BA</FloorplanName>
+        <FloorplanID>77288_8Unit</FloorplanID>
+        <PhaseName/>
+        <BuildingName/>
+      </Units>
+      <Address AddressType="">
+        <AddressLine1>9320 Hillery Drive</AddressLine1>
+        <AddressLine2/>
+        <City>San Diego</City>
+        <State>CA</State>
+        <PostalCode>92126</PostalCode>
+        <CountyName></CountyName>
+      </Address>
+      <Availability>
+        <VacancyClass>Unoccupied</VacancyClass>
+        <VacateDate Month="3" Day="1" Year="2021"/>
+        <UnitAvailabilityURL></UnitAvailabilityURL>
+      </Availability>
+      <Comment/>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+      <Amenity AmenityType="">
+        <Description></Description>
+        <Rank></Rank>
+      </Amenity>
+    </ILS_Unit>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <File FileID="77288_0Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_0Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/3_77288_890661.jpg</Src>
+      <Rank>0</Rank>
+    </File>
+    <File FileID="77288_1Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_1Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/PG_12-18-19_12000004.jpg</Src>
+      <Rank>1</Rank>
+    </File>
+    <File FileID="77288_2Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_2Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/PG_12-18-19_12000005.jpg</Src>
+      <Rank>2</Rank>
+    </File>
+    <File FileID="77288_3Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_3Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/PG_12-18-19_12000006.jpg</Src>
+      <Rank>3</Rank>
+    </File>
+    <File FileID="77288_4Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_4Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/PG_12-18-19_12000007.jpg</Src>
+      <Rank>4</Rank>
+    </File>
+    <File FileID="77288_5Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_5Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/PG_12-18-19_12000008.jpg</Src>
+      <Rank>5</Rank>
+    </File>
+    <File FileID="77288_6Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_6Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/PG_12-18-19_12000009.jpg</Src>
+      <Rank>6</Rank>
+    </File>
+    <File FileID="77288_7Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_7Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/PG_12-18-19_12000010.jpg</Src>
+      <Rank>7</Rank>
+    </File>
+    <File FileID="77288_8Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_8Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/PG_12-18-19_12000011.jpg</Src>
+      <Rank>8</Rank>
+    </File>
+    <File FileID="77288_9Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_9Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/PG_12-18-19_12000012.jpg</Src>
+      <Rank>9</Rank>
+    </File>
+    <File FileID="77288_10Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_10Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/PG_12-18-19_12000013.jpg</Src>
+      <Rank>10</Rank>
+    </File>
+    <File FileID="77288_11Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_11Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/PG_12-18-19_12000014.jpg</Src>
+      <Rank>11</Rank>
+    </File>
+    <File FileID="77288_12Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_12Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Image00001.jpg</Src>
+      <Rank>12</Rank>
+    </File>
+    <File FileID="77288_13Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_13Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Image00002.jpg</Src>
+      <Rank>13</Rank>
+    </File>
+    <File FileID="77288_14Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_14Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Image00003.jpg</Src>
+      <Rank>14</Rank>
+    </File>
+    <File FileID="77288_15Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name></Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Image00004.jpg</Src>
+      <Rank>15</Rank>
+    </File>
+    <File FileID="77288_16Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_16Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Image00005.jpg</Src>
+      <Rank>16</Rank>
+    </File>
+    <File FileID="77288_17Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_17Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Image00006.jpg</Src>
+      <Rank>17</Rank>
+    </File>
+    <File FileID="77288_18Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_18Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Image00007.jpg</Src>
+      <Rank>18</Rank>
+    </File>
+    <File FileID="77288_19Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_19Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Image00008.jpg</Src>
+      <Rank>19</Rank>
+    </File>
+    <File FileID="77288_20Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_20Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Image00009.jpg</Src>
+      <Rank>20</Rank>
+    </File>
+    <File FileID="77288_21Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_21Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Image00010.jpg</Src>
+      <Rank>21</Rank>
+    </File>
+    <File FileID="77288_22Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_22Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Image00011.jpg</Src>
+      <Rank>22</Rank>
+    </File>
+    <File FileID="77288_23Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_23Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Image00012.jpg</Src>
+      <Rank>23</Rank>
+    </File>
+    <File FileID="77288_24Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_24Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Image00013.jpg</Src>
+      <Rank>24</Rank>
+    </File>
+    <File FileID="77288_25Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_25Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Image00014.jpg</Src>
+      <Rank>25</Rank>
+    </File>
+    <File FileID="77288_26Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_26Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Image00015.jpg</Src>
+      <Rank>26</Rank>
+    </File>
+    <File FileID="77288_27Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_27Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Image00016.jpg</Src>
+      <Rank>27</Rank>
+    </File>
+    <File FileID="77288_28Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_28Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Image00017.jpg</Src>
+      <Rank>28</Rank>
+    </File>
+    <File FileID="77288_29Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_29Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Image00018.jpg</Src>
+      <Rank>29</Rank>
+    </File>
+    <File FileID="77288_30Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_30Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Image00019.jpg</Src>
+      <Rank>30</Rank>
+    </File>
+    <File FileID="77288_31Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_31Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Image00020.jpg</Src>
+      <Rank>31</Rank>
+    </File>
+    <File FileID="77288_32Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_32Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Image00021.jpg</Src>
+      <Rank>32</Rank>
+    </File>
+    <File FileID="77288_33Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_33Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Vacant_PG_12-18-2019_12000004.jpg</Src>
+      <Rank>33</Rank>
+    </File>
+    <File FileID="77288_34Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_34Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Vacant_PG_12-18-2019_12000005.jpg</Src>
+      <Rank>34</Rank>
+    </File>
+    <File FileID="77288_35Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_35Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Vacant_PG_12-18-2019_12000006.jpg</Src>
+      <Rank>35</Rank>
+    </File>
+    <File FileID="77288_36Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_36Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Vacant_PG_12-18-2019_12000007.jpg</Src>
+      <Rank>36</Rank>
+    </File>
+    <File FileID="77288_37Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_37Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Vacant_PG_12-18-2019_12000008.jpg</Src>
+      <Rank>37</Rank>
+    </File>
+    <File FileID="77288_38Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_38Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Vacant_PG_12-18-2019_12000003.jpg</Src>
+      <Rank>38</Rank>
+    </File>
+    <File FileID="77288_39Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_39Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Vacant_PG_12-18-2019_12000010.jpg</Src>
+      <Rank>39</Rank>
+    </File>
+    <File FileID="77288_40Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_40Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Vacant_PG_12-18-2019_12000013.jpg</Src>
+      <Rank>40</Rank>
+    </File>
+    <File FileID="77288_41Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_41Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Model_PG_12-18-2019_12000001.jpg</Src>
+      <Rank>41</Rank>
+    </File>
+    <File FileID="77288_42Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_42Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Model_PG_12-18-2019_12000002.jpg</Src>
+      <Rank>42</Rank>
+    </File>
+    <File FileID="77288_43Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_43Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Model_PG_12-18-2019_12000003.jpg</Src>
+      <Rank>43</Rank>
+    </File>
+    <File FileID="77288_44Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_44Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Model_PG_12-18-2019_12000004.jpg</Src>
+      <Rank>44</Rank>
+    </File>
+    <File FileID="77288_45Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_45Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Model_PG_12-18-2019_12000005.jpg</Src>
+      <Rank>45</Rank>
+    </File>
+    <File FileID="77288_46Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_46Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Model_PG_12-18-2019_12000007.jpg</Src>
+      <Rank>46</Rank>
+    </File>
+    <File FileID="77288_47Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_47Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Model_PG_12-18-2019_12000008.jpg</Src>
+      <Rank>47</Rank>
+    </File>
+    <File FileID="77288_48Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_48Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Model_PG_12-18-2019_12000009.jpg</Src>
+      <Rank>48</Rank>
+    </File>
+    <File FileID="77288_49Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_49Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Model_PG_12-18-2019_12000010.jpg</Src>
+      <Rank>49</Rank>
+    </File>
+    <File FileID="77288_50Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_50Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Model_PG_12-18-2019_12000011.jpg</Src>
+      <Rank>50</Rank>
+    </File>
+    <File FileID="77288_51Image" Active="">
+      <FileType>Photo</FileType>
+      <Format>image/jpeg</Format>
+      <Name>77288_51Image</Name>
+      <Src>https://cdngeneral.rentcafe.com/dmslivecafe/3/77288/Model_PG_12-18-2019_12000012.jpg</Src>
+      <Rank>51</Rank>
+    </File>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </Property>
+</PhysicalProperty>
